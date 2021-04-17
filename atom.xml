@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Torch</title>
+  
+  <subtitle>恒</subtitle>
+  <link href="http://qiliangfan.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://qiliangfan.github.io/"/>
+  <updated>2021-04-16T12:32:28.147Z</updated>
+  <id>http://qiliangfan.github.io/</id>
+  
+  <author>
+    <name>Torch Fan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="http://qiliangfan.github.io/2021/04/16/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://qiliangfan.github.io/2021/04/16/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</id>
+    <published>2021-04-16T12:31:50.000Z</published>
+    <updated>2021-04-16T12:32:28.147Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新的开始"><a href="#新的开始" class="headerlink" title="新的开始"></a>新的开始</h1><blockquote><p>2021-04-16 20:31:50 开始编写博客</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;新的开始&quot;&gt;&lt;a href=&quot;#新的开始&quot; class=&quot;headerlink&quot; title=&quot;新的开始&quot;&gt;&lt;/a&gt;新的开始&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;2021-04-16 20:31:50 开始编写博客&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
