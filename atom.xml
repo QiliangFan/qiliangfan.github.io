@@ -6,7 +6,7 @@
   <link href="https://torch-fan.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.netlify.app/"/>
-  <updated>2021-04-17T12:16:03.171Z</updated>
+  <updated>2021-04-17T12:19:09.985Z</updated>
   <id>https://torch-fan.netlify.app/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://torch-fan.netlify.app/2021/04/17/linux-cuda/"/>
     <id>https://torch-fan.netlify.app/2021/04/17/linux-cuda/</id>
     <published>2021-04-17T09:04:22.000Z</published>
-    <updated>2021-04-17T12:16:03.171Z</updated>
+    <updated>2021-04-17T12:19:09.985Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-cuda安装"><a href="#1-cuda安装" class="headerlink" title="1. cuda安装:"></a>1. cuda安装:</h1><p>安装cuda需要从nvidia官网下载对应版本的nvidia cuda驱动和cudnn的tar包</p><h2 id="1-安装cuda"><a href="#1-安装cuda" class="headerlink" title="1. 安装cuda:"></a>1. 安装cuda:</h2><p>nvidia驱动是一个 .run 文件, 安装方式如下</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># xx.run 为你的安装文件sudo chmod +x xx.runsudo ./xx.runsudo ./xx.run --uninstall # 卸载cuda<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>安装过程中可能遇到一些问题, 比较常见的问题是, 需要关闭所有的X-server(譬如vncserver), 否则无法安装显卡驱动。</p><p>安装过程中如果报错，可以在以下日志文件中查看具体的错误信息以解决问题：</p><pre class="line-numbers language-properties" data-language="properties"><code class="language-properties"><span class="token attr-name">/var/log/nvidia-installer.log</span> <span class="token attr-value"> # 驱动安装日志</span><span class="token attr-name">/var/log/cuda-installer.log</span> <span class="token attr-value"> # cuda安装日志</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h2 id="2-安装cudnn"><a href="#2-安装cudnn" class="headerlink" title="2. 安装cudnn"></a>2. 安装cudnn</h2><p>nvidia官网的cudnn安装包是一个tar压缩包，将其解压到当前目录</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">tar -xzvf cudnn-xx.tgz  # 解压你的cudnn tar包sudo cp cuda/include/cudnn.h /usr/local/cuda/include/  # 将cudnn 中的头文件拷贝到cuda目录下sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64/  # 将一些动态链接库拷贝到cuda目录下sudo chmod a+r /usr/local/cuda/include/cudnn.hsudo chmod a+r /usr/local/cuda/lib64/libcudnn*# 以上两行代码是赋予cudnn相关文件对所有人的可读权限<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h1 id="2-驱动安装报错的可能问题："><a href="#2-驱动安装报错的可能问题：" class="headerlink" title="2. 驱动安装报错的可能问题："></a>2. 驱动安装报错的可能问题：</h1><h2 id="1-ubuntu开源驱动与nvidia官方驱动冲突"><a href="#1-ubuntu开源驱动与nvidia官方驱动冲突" class="headerlink" title="1. ubuntu开源驱动与nvidia官方驱动冲突"></a>1. ubuntu开源驱动与nvidia官方驱动冲突</h2><p>Ubuntu自身有一个开源驱动源，该源会与nvidia的驱动冲突，导致nvidia驱动无法安装，解决方法如下：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">sudo vim /etc/modprobe.d/blacklist-nouveav.conf<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>添加以下内容</p><pre class="line-numbers language-conf" data-language="conf"><code class="language-conf">blacklist nouveauoptions nouveau modeset=0<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>更新内核(主要是把内核中的开源驱动相关信息抹除)</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">sudo update-initramfs -u sudo reboot # 更新内核后最好重启服务器<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>接下来是验证开源驱动是否禁用成功:</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">lsmod | grep nouveau  # 如果没有输出则禁用nouveau成功, nouveau是ubuntu下的开源驱动<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h1 id="3-cuda在使用中出现的问题"><a href="#3-cuda在使用中出现的问题" class="headerlink" title="3. cuda在使用中出现的问题"></a>3. cuda在使用中出现的问题</h1><h2 id="1-nvidia-smi报错-驱动版本不匹配"><a href="#1-nvidia-smi报错-驱动版本不匹配" class="headerlink" title="1. nvidia-smi报错: 驱动版本不匹配"></a>1. nvidia-smi报错: 驱动版本不匹配</h2><p>这种情况一般是由于有人更新了linux的显卡驱动, 导致和cuda的版本不兼容了, 重装显卡驱动即可</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 卸载驱动sudo apt purge nvidia* # 安装驱动sudo apt install nvidia-driver-xx  # xx为你需要安装的驱动版本<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>事实上, nvidia的cuda安装包中带有 driver, 不需要通过命令行安装(主要是命令行安装的驱动可能和cuda不兼容, 但是cuda安装包中带的驱动一定是兼容的)</p><p>当按照好驱动后, 需要重启服务器以更新驱动, 但是在服务器下, 重启是不容易协商并完成的事。</p><p>以下是不重启，重新加载cuda驱动的方式：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">sudo rmmod nvidia# 如果遇到有依赖不能卸载或者有进程在占用sudo rmmod nvidia_uvmsudo rmmod nvidia_modesetsudo lsof -n -w /dev/nvidia* # 找到相关进程并kill# 当冲突解决时, 再次执行第一条指令卸载驱动内核:sudo rmmod nvidia# 查看nvidia-smi, 此时一切正常nvidia-smi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
@@ -32,6 +32,8 @@
       
     
     
+    
+    <category term="GPU" scheme="https://torch-fan.netlify.app/categories/GPU/"/>
     
     
     <category term="linux" scheme="https://torch-fan.netlify.app/tags/linux/"/>
