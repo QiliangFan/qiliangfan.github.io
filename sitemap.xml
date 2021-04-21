@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://torch-fan.netlify.app/2021/04/21/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
+    
+    <lastmod>2021-04-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://torch-fan.netlify.app/2021/04/17/linux-cuda/</loc>
     
     <lastmod>2021-04-17</lastmod>
@@ -53,7 +60,7 @@
 
   <url>
     <loc>https://torch-fan.netlify.app/</loc>
-    <lastmod>2021-04-18</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,14 +68,14 @@
   
   <url>
     <loc>https://torch-fan.netlify.app/tags/linux/</loc>
-    <lastmod>2021-04-18</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://torch-fan.netlify.app/tags/cuda/</loc>
-    <lastmod>2021-04-18</lastmod>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +84,14 @@
   
   <url>
     <loc>https://torch-fan.netlify.app/categories/GPU/</loc>
-    <lastmod>2021-04-18</lastmod>
+    <lastmod>2021-04-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.netlify.app/categories/%E5%8D%97%E5%BC%80/</loc>
+    <lastmod>2021-04-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
