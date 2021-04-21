@@ -11,3 +11,7 @@ Disallow: /fonts/
 Disallow: /fancybox/
 Sitemap: https://torch-fan.netlify.app/sitemap.xml
 Sitemap: https://torch-fan.netlify.app/baidu_sitemap.xml
+Sitemap: https://torch-fan.netlify.app/tag-sitemap.xml
+Sitemap: https://torch-fan.netlify.app/post-sitemap.xml
+Sitemap: https://torch-fan.netlify.app/page-sitemap.xml
+Sitemap: https://torch-fan.netlify.app/category-sitemap.xml
