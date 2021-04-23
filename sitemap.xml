@@ -74,6 +74,13 @@
 
   
   <url>
+    <loc>https://torch-fan.netlify.app/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
+    <lastmod>2021-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torch-fan.netlify.app/tags/linux/</loc>
     <lastmod>2021-04-23</lastmod>
     <changefreq>daily</changefreq>
@@ -87,24 +94,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://torch-fan.netlify.app/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
-    <lastmod>2021-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/GPU/</loc>
+    <loc>https://torch-fan.netlify.app/categories/ML/</loc>
     <lastmod>2021-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/ML/</loc>
+    <loc>https://torch-fan.netlify.app/categories/GPU/</loc>
     <lastmod>2021-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
