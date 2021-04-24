@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>cuda-python版本对应关系</title>
+      <link href="2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/"/>
+      <url>2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>Path</th><th>Compiler</th><th>CUDA/cuDNN</th><th>SIMD</th><th>Notes</th></tr></thead><tbody><tr><td>2.3.0\py38\CPU+GPU\cuda110cudnn8sse2</td><td>VS2019 16.6</td><td>11.0.2_451.48/8.0.2.39</td><td>x86_64</td><td>Python 3.8/compute_35</td></tr><tr><td>2.3.0\py38\CPU+GPU\cuda110cudnn8avx2</td><td>VS2019 16.6</td><td>11.0.2_451.48/8.0.2.39</td><td>AVX2</td><td>Python 3.8/compute_35,sm_50,sm_52,sm_61,sm_70,compute_75</td></tr><tr><td>2.2.0\py37\CPU+GPU\cuda102cudnn76sse2</td><td>VS2019 16.5</td><td>10.2.89_441.22/7.6.5.32</td><td>x86_64</td><td>Python 3.7/Compute 3.0</td></tr><tr><td>2.2.0\py37\CPU+GPU\cuda102cudnn76avx2</td><td>VS2019 16.5</td><td>10.2.89_441.22/7.6.5.32</td><td>AVX2</td><td>Python 3.7/Compute 3.0,3.5,5.0,5.2,6.1,7.0,7.5</td></tr><tr><td>2.1.0\py37\CPU+GPU\cuda102cudnn76sse2</td><td>VS2019 16.4</td><td>10.2.89_441.22/7.6.5.32</td><td>x86_64</td><td>Python 3.7/Compute 3.0</td></tr><tr><td>2.1.0\py37\CPU+GPU\cuda102cudnn76avx2</td><td>VS2019 16.4</td><td>10.2.89_441.22/7.6.5.32</td><td>AVX2</td><td>Python 3.7/Compute 3.0,3.5,5.0,5.2,6.1,7.0,7.5</td></tr><tr><td>2.0.0\py37\CPU\sse2</td><td>VS2019 16.3</td><td>No</td><td>x86_64</td><td>Python 3.7</td></tr><tr><td>2.0.0\py37\CPU\avx2</td><td>VS2019 16.3</td><td>No</td><td>AVX2</td><td>Python 3.7</td></tr><tr><td>2.0.0\py37\GPU\cuda101cudnn76sse2</td><td>VS2019 16.3</td><td>10.1.243_426.00/7.6.4.38</td><td>x86_64</td><td>Python 3.7/Compute 3.0</td></tr><tr><td>2.0.0\py37\GPU\cuda101cudnn76avx2</td><td>VS2019 16.3</td><td>10.1.243_426.00/7.6.4.38</td><td>AVX2</td><td>Python 3.7/Compute 3.0,3.5,5.0,5.2,6.1,7.0,7.5</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> GPU </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cuda </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>过拟合问题解决思路</title>
       <link href="2021/04/23/guo-ni-he-wen-ti-jie-jue-si-lu/"/>
       <url>2021/04/23/guo-ni-he-wen-ti-jie-jue-si-lu/</url>
