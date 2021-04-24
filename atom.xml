@@ -6,7 +6,7 @@
   <link href="https://torch-fan.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.netlify.app/"/>
-  <updated>2021-04-24T01:44:00.112Z</updated>
+  <updated>2021-04-24T01:49:54.854Z</updated>
   <id>https://torch-fan.netlify.app/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Node.js环境搭建过程中遇到的问题及解决方案“</title>
+    <link href="https://torch-fan.netlify.app/2021/04/24/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/"/>
+    <id>https://torch-fan.netlify.app/2021/04/24/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/</id>
+    <published>2021-04-24T01:45:12.000Z</published>
+    <updated>2021-04-24T01:49:54.854Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-nvm安装npm失败"><a href="#1-nvm安装npm失败" class="headerlink" title="1. nvm安装npm失败:"></a>1. nvm安装npm失败:</h2><p>​    在nvm的安装目录下，打开settings.txt(需要修改权限，该文件普通用户不能修改)：</p><pre class="line-numbers language-txt" data-language="txt"><code class="language-txt">root: D:\nvmpath: B:\nodejs# 加上下面这两行镜像（不要把这行注释复制过去了）node_mirror: http://npm.taobao.org/mirrors/node/npm_mirror: https://npm.taobao.org/mirrors/npm/<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-nrm报错（一般出现在windows下）"><a href="#2-nrm报错（一般出现在windows下）" class="headerlink" title="2. nrm报错（一般出现在windows下）"></a>2. nrm报错（一般出现在windows下）</h2><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token constant">C</span><span class="token operator">:</span>\Users\fanqi<span class="token operator">&gt;</span>nrminternal<span class="token operator">/</span>validators<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">117</span>    <span class="token keyword">throw</span> <span class="token keyword">new</span> <span class="token class-name">ERR_INVALID_ARG_TYPE</span><span class="token punctuation">(</span>name<span class="token punctuation">,</span> <span class="token string">'string'</span><span class="token punctuation">,</span> value<span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token operator">^</span><span class="token punctuation">[</span>TypeError <span class="token punctuation">[</span><span class="token constant">ERR_INVALID_ARG_TYPE</span><span class="token punctuation">]</span><span class="token operator">:</span> The <span class="token string">"path"</span> argument must be <span class="token keyword">of</span> type string<span class="token punctuation">.</span> Received <span class="token keyword">undefined</span>  at <span class="token function">validateString</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>validators<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">117</span><span class="token operator">:</span><span class="token number">11</span><span class="token punctuation">)</span>  at Object<span class="token punctuation">.</span><span class="token function">join</span> <span class="token punctuation">(</span>path<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">375</span><span class="token operator">:</span><span class="token number">7</span><span class="token punctuation">)</span>  at Object<span class="token punctuation">.</span><span class="token operator">&lt;</span>anonymous<span class="token operator">&gt;</span> <span class="token punctuation">(</span><span class="token constant">D</span><span class="token operator">:</span>\nvm\v12<span class="token punctuation">.</span><span class="token number">16.3</span>\node_modules\nrm\cli<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">17</span><span class="token operator">:</span><span class="token number">20</span><span class="token punctuation">)</span>  at Module<span class="token punctuation">.</span><span class="token function">_compile</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>modules<span class="token operator">/</span>cjs<span class="token operator">/</span>loader<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">1133</span><span class="token operator">:</span><span class="token number">30</span><span class="token punctuation">)</span>  at Object<span class="token punctuation">.</span>Module<span class="token punctuation">.</span>_extensions<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token function">js</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>modules<span class="token operator">/</span>cjs<span class="token operator">/</span>loader<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">1153</span><span class="token operator">:</span><span class="token number">10</span><span class="token punctuation">)</span>  at Module<span class="token punctuation">.</span><span class="token function">load</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>modules<span class="token operator">/</span>cjs<span class="token operator">/</span>loader<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">977</span><span class="token operator">:</span><span class="token number">32</span><span class="token punctuation">)</span>  at Function<span class="token punctuation">.</span>Module<span class="token punctuation">.</span><span class="token function">_load</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>modules<span class="token operator">/</span>cjs<span class="token operator">/</span>loader<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">877</span><span class="token operator">:</span><span class="token number">14</span><span class="token punctuation">)</span>  at Function<span class="token punctuation">.</span>executeUserEntryPoint <span class="token punctuation">[</span><span class="token keyword">as</span> runMain<span class="token punctuation">]</span> <span class="token punctuation">(</span>internal<span class="token operator">/</span>modules<span class="token operator">/</span>run_main<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">74</span><span class="token operator">:</span><span class="token number">12</span><span class="token punctuation">)</span>  at internal<span class="token operator">/</span>main<span class="token operator">/</span>run_main_module<span class="token punctuation">.</span>js<span class="token operator">:</span><span class="token number">18</span><span class="token operator">:</span><span class="token number">47</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>  code<span class="token operator">:</span> <span class="token string">'ERR_INVALID_ARG_TYPE'</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>解决方法是，找到node_modules/nrm下的cli.js，找到第17行。</p><pre class="line-numbers language-js" data-language="js"><code class="language-js"># <span class="token keyword">const</span> <span class="token constant">NRMRC</span> <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span>env<span class="token punctuation">.</span><span class="token constant">HOME</span><span class="token punctuation">,</span> <span class="token string">'.nrmrc'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 修改为<span class="token operator">:</span><span class="token keyword">const</span> <span class="token constant">NRMRC</span> <span class="token operator">=</span> path<span class="token punctuation">.</span><span class="token function">join</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span>env<span class="token punctuation">[</span><span class="token punctuation">(</span>process<span class="token punctuation">.</span>platform <span class="token operator">==</span> <span class="token string">'win32'</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">'USERPROFILE'</span> <span class="token operator">:</span> <span class="token string">'HOME'</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token string">'.nrmrc'</span><span class="token punctuation">)</span><span class="token punctuation">;</span># 还是跨平台时的问题<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-nvm安装npm失败&quot;&gt;&lt;a href=&quot;#1-nvm安装npm失败&quot; class=&quot;headerlink&quot; title=&quot;1. nvm安装npm失败:&quot;&gt;&lt;/a&gt;1. nvm安装npm失败:&lt;/h2&gt;&lt;p&gt;​    在nvm的安装目录下，打开settings</summary>
+      
+    
+    
+    
+    <category term="Node.js" scheme="https://torch-fan.netlify.app/categories/Node-js/"/>
+    
+    
+    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
+    
+    <category term="Node.js" scheme="https://torch-fan.netlify.app/tags/Node-js/"/>
+    
+  </entry>
   
   <entry>
     <title>Tensorflow2.4.0限制显存占用</title>
@@ -146,9 +172,9 @@
     <category term="GPU" scheme="https://torch-fan.netlify.app/categories/GPU/"/>
     
     
-    <category term="linux" scheme="https://torch-fan.netlify.app/tags/linux/"/>
-    
     <category term="cuda" scheme="https://torch-fan.netlify.app/tags/cuda/"/>
+    
+    <category term="linux" scheme="https://torch-fan.netlify.app/tags/linux/"/>
     
   </entry>
   
