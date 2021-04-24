@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Tensorflow2.4.0限制显存占用</title>
+      <link href="2021/04/24/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/"/>
+      <url>2021/04/24/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/</url>
+      
+        <content type="html"><![CDATA[<pre class="line-numbers language-python" data-language="python"><code class="language-python">physical_devices <span class="token operator">=</span> tf<span class="token punctuation">.</span>config<span class="token punctuation">.</span>list_physical_devices<span class="token punctuation">(</span><span class="token string">'GPU'</span><span class="token punctuation">)</span><span class="token keyword">for</span> dev <span class="token keyword">in</span> physical_devices<span class="token punctuation">:</span>  <span class="token comment"># 如果使用多块GPU时</span>tf<span class="token punctuation">.</span>config<span class="token punctuation">.</span>experimental<span class="token punctuation">.</span>set_memory_growth<span class="token punctuation">(</span>dev<span class="token punctuation">,</span> <span class="token boolean">True</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><p>将上面代码放在程序的开头, 即可做到限制显存使用的效果.&nbsp;默认情况下tf在训练时会将整块GPU的显卡占满，这不利于他人使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ML </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GPU </tag>
+            
+            <tag> Tensorflow </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>cuda-python版本对应关系</title>
       <link href="2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/"/>
       <url>2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/</url>

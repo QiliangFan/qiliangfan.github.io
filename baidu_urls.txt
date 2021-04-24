@@ -1,2 +1,2 @@
+https://torch-fan.netlify.app/2021/04/24/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/
 https://torch-fan.netlify.app/2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/
-https://torch-fan.netlify.app/2021/04/23/guo-ni-he-wen-ti-jie-jue-si-lu/
