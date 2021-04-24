@@ -3,43 +3,43 @@
 
 
     <url>
-        <loc>https://torch-fan.netlify.app/tags/Node-js/</loc>
-        <lastmod>2021-04-24T01:49:54.854Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://torch-fan.netlify.app/tags/BUG/</loc>
-        <lastmod>2021-04-24T01:49:54.854Z</lastmod>
+        <loc>https://torch-fan.netlify.app/tags/cuda/</loc>
+        <lastmod>2021-04-24T01:53:20.446Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://torch-fan.netlify.app/tags/Tensorflow/</loc>
-        <lastmod>2021-04-24T01:44:00.112Z</lastmod>
+        <lastmod>2021-04-24T01:53:05.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://torch-fan.netlify.app/tags/GPU/</loc>
-        <lastmod>2021-04-24T01:44:00.112Z</lastmod>
+        <lastmod>2021-04-24T01:53:05.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://torch-fan.netlify.app/tags/cuda/</loc>
-        <lastmod>2021-04-24T01:39:03.506Z</lastmod>
+        <loc>https://torch-fan.netlify.app/tags/Node-js/</loc>
+        <lastmod>2021-04-24T01:52:45.506Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://torch-fan.netlify.app/tags/BUG/</loc>
+        <lastmod>2021-04-24T01:52:45.506Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://torch-fan.netlify.app/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
-        <lastmod>2021-04-24T01:38:52.220Z</lastmod>
+        <lastmod>2021-04-24T01:52:23.115Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
