@@ -203,9 +203,9 @@
       
         <tags>
             
-            <tag> cuda </tag>
-            
             <tag> linux </tag>
+            
+            <tag> cuda </tag>
             
         </tags>
       
