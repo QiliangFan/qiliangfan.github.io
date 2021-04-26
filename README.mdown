@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys)
