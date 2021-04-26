@@ -1,2 +1,2 @@
+https://torch-fan.netlify.app/2021/04/26/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/
 https://torch-fan.netlify.app/2021/04/24/pytorch-lightning-jian-yao-jie-shao/
-https://torch-fan.netlify.app/2021/04/24/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/
