@@ -1,2 +1,2 @@
+https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/
 https://torch-fan.netlify.app/2021/04/26/istio-gu-zhang-zhu-ru/
-https://torch-fan.netlify.app/2021/04/26/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/

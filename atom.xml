@@ -6,7 +6,7 @@
   <link href="https://torch-fan.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.netlify.app/"/>
-  <updated>2021-04-26T10:18:04.833Z</updated>
+  <updated>2021-04-26T11:16:31.589Z</updated>
   <id>https://torch-fan.netlify.app/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PyTorch 使用中可能遇到的错误信息</title>
+    <link href="https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/"/>
+    <id>https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</id>
+    <published>2021-04-26T11:11:37.000Z</published>
+    <updated>2021-04-26T11:16:31.589Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-ERROR-Unexpected-segmentation-fault-encountered-in-worker"><a href="#1-ERROR-Unexpected-segmentation-fault-encountered-in-worker" class="headerlink" title="1. ERROR: Unexpected segmentation fault encountered in worker."></a>1. ERROR: Unexpected segmentation fault encountered in worker.</h2><h3 id="问题发生场景"><a href="#问题发生场景" class="headerlink" title="问题发生场景"></a>问题发生场景</h3><p><img src="https://z3.ax1x.com/2021/04/26/gpAML9.png"></p><blockquote><p>该场景发生在DataLoader的num_workers设置为多个时</p></blockquote><h3 id="问题根源及解决方案"><a href="#问题根源及解决方案" class="headerlink" title="问题根源及解决方案:"></a>问题根源及解决方案:</h3><pre class="line-numbers language-python" data-language="python"><code class="language-python"><span class="token comment"># 这一行代码限制了PyTorch可以使用的进程数</span>torch<span class="token punctuation">.</span>set_num_threads<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><blockquote><p>解决方案是删除这一行代码或者将允许使用的进程数增大一点</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-ERROR-Unexpected-segmentation-fault-encountered-in-worker&quot;&gt;&lt;a href=&quot;#1-ERROR-Unexpected-segmentation-fault-encountered-in-worker&quot; </summary>
+      
+    
+    
+    
+    <category term="ML" scheme="https://torch-fan.netlify.app/categories/ML/"/>
+    
+    
+    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
+    
+    <category term="PyTorch" scheme="https://torch-fan.netlify.app/tags/PyTorch/"/>
+    
+  </entry>
   
   <entry>
     <title>istio 故障注入</title>
