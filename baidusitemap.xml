@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://torch-fan.netlify.app/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/</loc>
+    <lastmod>2021-04-27</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.netlify.app/2021/04/27/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/</loc>
+    <lastmod>2021-04-27</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.netlify.app/2021/04/17/linux-cuda/</loc>
+    <lastmod>2021-04-27</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.netlify.app/2021/04/21/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
+    <lastmod>2021-04-27</lastmod>
+  </url>
+  <url>
     <loc>https://torch-fan.netlify.app/2021/04/27/github-actions-er-shi-yong-jing-yan/</loc>
     <lastmod>2021-04-27</lastmod>
   </url>
@@ -55,14 +71,6 @@
   <url>
     <loc>https://torch-fan.netlify.app/2021/04/23/guo-ni-he-wen-ti-jie-jue-si-lu/</loc>
     <lastmod>2021-04-24</lastmod>
-  </url>
-  <url>
-    <loc>https://torch-fan.netlify.app/2021/04/21/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
-    <lastmod>2021-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://torch-fan.netlify.app/2021/04/17/linux-cuda/</loc>
-    <lastmod>2021-04-17</lastmod>
   </url>
   <url>
     <loc>https://torch-fan.netlify.app/2021/04/16/xin-de-kai-shi/</loc>
