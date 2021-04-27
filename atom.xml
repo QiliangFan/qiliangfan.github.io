@@ -6,7 +6,7 @@
   <link href="https://torch-fan.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.netlify.app/"/>
-  <updated>2021-04-27T12:46:58.389Z</updated>
+  <updated>2021-04-27T12:48:41.529Z</updated>
   <id>https://torch-fan.netlify.app/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>vscode 使用中遇到的问题“</title>
+    <title>vscode 使用中遇到的问题</title>
     <link href="https://torch-fan.netlify.app/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/"/>
     <id>https://torch-fan.netlify.app/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/</id>
     <published>2021-04-27T12:41:40.000Z</published>
-    <updated>2021-04-27T12:46:58.389Z</updated>
+    <updated>2021-04-27T12:48:41.529Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-连接terminal-pty超时："><a href="#1-连接terminal-pty超时：" class="headerlink" title="1. 连接terminal pty超时："></a>1. 连接terminal pty超时：</h2><blockquote><p>可能原因:  </p><p>这个问题可能是环境变量混乱导致vscode不知道打开哪个终端一直在查找。</p></blockquote><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案:"></a>解决方案:</h3><ul><li>打开设置</li></ul><p><a href="https://imgtu.com/i/gCUvfP"><img src="https://z3.ax1x.com/2021/04/27/gCUvfP.png" alt="gCUvfP.png"></a></p><ul><li>打开终端(terminal)设置</li></ul><p><a href="https://imgtu.com/i/gCa9Og"><img src="https://z3.ax1x.com/2021/04/27/gCa9Og.png" alt="gCa9Og.png"></a></p><ul><li>配置terminal路径:</li></ul><p><a href="https://imgtu.com/i/gCaiwj"><img src="https://z3.ax1x.com/2021/04/27/gCaiwj.png" alt="gCaiwj.png"></a></p><p><a href="https://imgtu.com/i/gCaEYq"><img src="https://z3.ax1x.com/2021/04/27/gCaEYq.png" alt="gCaEYq.png"></a></p>]]></content>
     
