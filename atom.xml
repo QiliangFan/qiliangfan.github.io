@@ -6,7 +6,7 @@
   <link href="https://torch-fan.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.netlify.app/"/>
-  <updated>2021-04-27T07:48:06.827Z</updated>
+  <updated>2021-04-27T07:56:40.121Z</updated>
   <id>https://torch-fan.netlify.app/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://torch-fan.netlify.app/2021/04/27/github-actions-zhi-chi-de-shell/"/>
     <id>https://torch-fan.netlify.app/2021/04/27/github-actions-zhi-chi-de-shell/</id>
     <published>2021-04-27T07:47:44.000Z</published>
-    <updated>2021-04-27T07:48:06.827Z</updated>
+    <updated>2021-04-27T07:56:40.121Z</updated>
     
     <content type="html"><![CDATA[<table><thead><tr><th>All</th><th><code>bash</code></th><th>The default shell on non-Windows platforms with a fallback to <code>sh</code>. When specifying a bash shell on Windows, the bash shell included with Git for Windows is used.</th><th><code>bash --noprofile --norc -eo pipefail {0}</code></th></tr></thead><tbody><tr><td>All</td><td><code>pwsh</code></td><td>The PowerShell Core. GitHub appends the extension <code>.ps1</code> to your script name.</td><td><code>pwsh -command ". '{0}'"</code></td></tr><tr><td>All</td><td><code>python</code></td><td>Executes the python command.</td><td><code>python {0}</code></td></tr><tr><td>Linux / macOS</td><td><code>sh</code></td><td>The fallback behavior for non-Windows platforms if no shell is provided and <code>bash</code> is not found in the path.</td><td><code>sh -e {0}</code></td></tr><tr><td>Windows</td><td><code>cmd</code></td><td>GitHub appends the extension <code>.cmd</code> to your script name and substitutes for <code>{0}</code>.</td><td><code>%ComSpec% /D /E:ON /V:OFF /S /C "CALL "{0}""</code>.</td></tr><tr><td>Windows</td><td><code>pwsh</code></td><td>This is the default shell used on Windows. The PowerShell Core. GitHub appends the extension <code>.ps1</code> to your script name. If your self-hosted Windows runner does not have <em>PowerShell Core</em> installed, then <em>PowerShell Desktop</em> is used instead.</td><td><code>pwsh -command ". '{0}'"</code>.</td></tr><tr><td>Windows</td><td><code>powershell</code></td><td>The PowerShell Desktop. GitHub appends the extension <code>.ps1</code> to your script name.</td><td><code>powershell -command ". '{0}'"</code>.</td></tr></tbody></table>]]></content>
     
