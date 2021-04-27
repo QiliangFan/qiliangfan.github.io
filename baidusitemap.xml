@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://torch-fan.netlify.app/2021/04/27/github-actions-kuai-su-kai-shi-fan-yi/</loc>
+    <lastmod>2021-04-27</lastmod>
+  </url>
+  <url>
     <loc>https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</loc>
     <lastmod>2021-04-26</lastmod>
   </url>
