@@ -131,7 +131,7 @@
   <span class="token key atrule">run</span><span class="token punctuation">:</span> rm <span class="token punctuation">-</span>rf *
   <span class="token key atrule">working-directory</span><span class="token punctuation">:</span> ./temp<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">steps:
   - name: Display the path
-    run: echo ${env:PATH}
+    run: <span class="token builtin class-name">echo</span> <span class="token variable">${env<span class="token operator">:</span>PATH}</span>
     shell: powershell<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h4 id="2-with"><a href="#2-with" class="headerlink" title="2. with"></a>2. <code>with</code></h4><blockquote><p>该字段用于为Actions传参</p></blockquote><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token key atrule">jobs</span><span class="token punctuation">:</span>
   <span class="token key atrule">my_first_job</span><span class="token punctuation">:</span>
     <span class="token key atrule">steps</span><span class="token punctuation">:</span>
