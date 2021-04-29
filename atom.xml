@@ -529,9 +529,9 @@
     <category term="Linux" scheme="https://torch-fan.netlify.app/categories/GPU/Linux/"/>
     
     
-    <category term="cuda" scheme="https://torch-fan.netlify.app/tags/cuda/"/>
-    
     <category term="linux" scheme="https://torch-fan.netlify.app/tags/linux/"/>
+    
+    <category term="cuda" scheme="https://torch-fan.netlify.app/tags/cuda/"/>
     
   </entry>
   
