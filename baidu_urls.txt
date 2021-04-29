@@ -1,3 +1,4 @@
+https://torch-fan.netlify.app/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/
 https://torch-fan.netlify.app/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/
 https://torch-fan.netlify.app/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/
 https://torch-fan.netlify.app/2021/04/27/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/
@@ -7,4 +8,3 @@ https://torch-fan.netlify.app/2021/04/27/github-actions-mo-shi-pi-pei-gui-ze/
 https://torch-fan.netlify.app/2021/04/27/giththub-actions-de-workflow-yu-fa/
 https://torch-fan.netlify.app/2021/04/27/github-actions-yi-shi-yong-actions/
 https://torch-fan.netlify.app/2021/04/27/github-actions-kuai-su-kai-shi-fan-yi/
-https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/
