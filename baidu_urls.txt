@@ -1,3 +1,4 @@
+https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/
 https://torch-fan.netlify.app/2021/04/29/github-bang-ni-zhao-que-xian/
 https://torch-fan.netlify.app/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/
 https://torch-fan.netlify.app/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/
@@ -7,4 +8,3 @@ https://torch-fan.netlify.app/2021/04/27/github-actions-er-shi-yong-jing-yan/
 https://torch-fan.netlify.app/2021/04/27/github-actions-zhi-chi-de-shell/
 https://torch-fan.netlify.app/2021/04/27/github-actions-mo-shi-pi-pei-gui-ze/
 https://torch-fan.netlify.app/2021/04/27/giththub-actions-de-workflow-yu-fa/
-https://torch-fan.netlify.app/2021/04/27/github-actions-yi-shi-yong-actions/
