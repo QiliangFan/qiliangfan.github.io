@@ -99,9 +99,9 @@
     <link href="https://torch-fan.netlify.app/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/"/>
     <id>https://torch-fan.netlify.app/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/</id>
     <published>2021-04-28T08:00:37.000Z</published>
-    <updated>2021-04-28T08:13:27.598Z</updated>
+    <updated>2021-05-01T00:31:51.413Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-指标数值异常"><a href="#1-指标数值异常" class="headerlink" title="1. 指标数值异常"></a>1. 指标数值异常</h2><h3 id="描述"><a href="#描述" class="headerlink" title="描述:"></a>描述:</h3><blockquote><p>在<code>*_epoch_end</code> 函数中打印log记录的指标值时，发现都是小数，正常情况应该都是整数</p></blockquote><h3 id="方案："><a href="#方案：" class="headerlink" title="方案："></a>方案：</h3><blockquote><p>pytorch lightning的log() 方法记录的指标，如果指示为on_step=True，在一个epoch结束时，他会将这个epoch内所有step记录的指标求均值。因此如果想获取一个epoch结束时的准确指标结果，应当在<code>*_epoch_end()</code>方法中再求一次指标并记录log中，然后再调用<code>self.trainer.logged_metrics</code>获取记录的指标，这时获取的指标就是一个epoch训练结束时的有效指标。</p></blockquote><p>当训练方式是通过监控验证集指标来寻找最优训练路线时，如果遇到这种问题可能会怎么都训练不好。<code>2021年4月28日</code> 毕设实验迟迟做不出好结果，这个指标问题出现小数一直没找到问题，最后才想起pytorch_lightning会对一个epoch内所有on_step=True的指标进行求和。</p><h3 id="教训："><a href="#教训：" class="headerlink" title="教训："></a>教训：</h3><p><code>validation_epoch_end</code> 、<code>test_epoch_end</code> 都必须要重新计算指标，不要用on_step的指标！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-指标数值异常"><a href="#1-指标数值异常" class="headerlink" title="1. 指标数值异常"></a>1. 指标数值异常</h2><h3 id="描述"><a href="#描述" class="headerlink" title="描述:"></a>描述:</h3><blockquote><p>在<code>*_epoch_end</code> 函数中打印log记录的指标值时，发现都是小数，正常情况应该都是整数</p></blockquote><h3 id="原理描述"><a href="#原理描述" class="headerlink" title="原理描述:"></a>原理描述:</h3><ul><li></li></ul><h3 id="教训："><a href="#教训：" class="headerlink" title="教训："></a>教训：</h3><p><code>validation_epoch_end</code> 、<code>test_epoch_end</code> 都必须要重新计算指标，不要用on_step的指标！</p>]]></content>
     
     
       
