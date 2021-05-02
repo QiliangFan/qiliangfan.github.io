@@ -228,6 +228,13 @@
   </url>
   
   <url>
+    <loc>https://torch-fan.netlify.app/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
+    <lastmod>2021-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torch-fan.netlify.app/tags/BUG/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
@@ -263,13 +270,6 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
-    <lastmod>2021-05-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://torch-fan.netlify.app/tags/testbed/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
@@ -278,6 +278,13 @@
   
   <url>
     <loc>https://torch-fan.netlify.app/tags/minikube/</loc>
+    <lastmod>2021-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.netlify.app/tags/PyTorch-Lightning/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -298,7 +305,7 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/tags/PyTorch-Lightning/</loc>
+    <loc>https://torch-fan.netlify.app/tags/GitHub-APP/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -306,13 +313,6 @@
   
   <url>
     <loc>https://torch-fan.netlify.app/tags/DNS/</loc>
-    <lastmod>2021-05-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.netlify.app/tags/GitHub-APP/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,14 +342,14 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/Node-js/</loc>
+    <loc>https://torch-fan.netlify.app/categories/ML/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/ML/</loc>
+    <loc>https://torch-fan.netlify.app/categories/Node-js/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -384,14 +384,14 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/Linux/</loc>
+    <loc>https://torch-fan.netlify.app/categories/Tools/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/Tools/</loc>
+    <loc>https://torch-fan.netlify.app/categories/Linux/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -405,14 +405,14 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/Git/Tools/</loc>
+    <loc>https://torch-fan.netlify.app/categories/%E6%94%B6%E8%97%8F/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://torch-fan.netlify.app/categories/%E6%94%B6%E8%97%8F/</loc>
+    <loc>https://torch-fan.netlify.app/categories/Git/Tools/</loc>
     <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
