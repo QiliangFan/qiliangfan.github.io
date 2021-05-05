@@ -166,9 +166,9 @@
     <category term="ML" scheme="https://torch-fan.netlify.app/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
-    
     <category term="PyTorch" scheme="https://torch-fan.netlify.app/tags/PyTorch/"/>
+    
+    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
     
     <category term="PyTorch Lightning" scheme="https://torch-fan.netlify.app/tags/PyTorch-Lightning/"/>
     
@@ -410,9 +410,9 @@
     <category term="ML" scheme="https://torch-fan.netlify.app/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
-    
     <category term="PyTorch" scheme="https://torch-fan.netlify.app/tags/PyTorch/"/>
+    
+    <category term="BUG" scheme="https://torch-fan.netlify.app/tags/BUG/"/>
     
   </entry>
   

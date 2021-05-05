@@ -157,9 +157,9 @@
       
         <tags>
             
-            <tag> BUG </tag>
-            
             <tag> PyTorch </tag>
+            
+            <tag> BUG </tag>
             
             <tag> PyTorch Lightning </tag>
             
@@ -388,9 +388,9 @@
       
         <tags>
             
-            <tag> BUG </tag>
-            
             <tag> PyTorch </tag>
+            
+            <tag> BUG </tag>
             
         </tags>
       
