@@ -1,3 +1,4 @@
+https://torch-fan.netlify.app/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/
 https://torch-fan.netlify.app/20210504/ubuntu18-04-an-zhuang-mysql/
 https://torch-fan.netlify.app/20210429/wang-zhan-shou-cang/
 https://torch-fan.netlify.app/20210429/github-bang-ni-zhao-que-xian/
