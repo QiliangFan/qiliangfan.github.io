@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>C++ 习题(2021.05.05)</title>
+      <link href="20210505/c-xi-ti-2021-05-05/"/>
+      <url>20210505/c-xi-ti-2021-05-05/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-指针空间初始化"><a href="#1-指针空间初始化" class="headerlink" title="1. 指针空间初始化"></a>1. 指针空间初始化</h3><blockquote><p>下面指针p1, p2申请的空间是随机还是已经标准化?</p></blockquote><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">int *p1 = new int[10];int *p2 = new int[10]();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><blockquote><p>答: p1 申请的空间是随机值, p2 申请的空间已初始化</p><p>对于内置类型而言:</p><p><code>new仅仅是分配内存,并不进行初始化,除非在后面显式地加上 ()</code></p><p>对于自定义类型而言:</p><p><code>只要一调用new,那么编译器不仅给他分配内存,还会调用它的默认构造函数初始化即使后面没有加(), 初始化是将内存空间填0</code></p></blockquote><h3 id="2-函数外初始化"><a href="#2-函数外初始化" class="headerlink" title="2. 函数外初始化"></a>2. 函数外初始化</h3><blockquote><p>函数外部访问x等于什么?</p></blockquote><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">enum string{        x1,        x2,        x3=10,        x4,        x5,    } x;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>答: 0</p><p><code>函数外定义是0,全局变量定义时编译器会为其初始化</code></p><p><code>函数内定义,是随机值,因为没有初始化</code> </p></blockquote><h3 id="3-指针运算"><a href="#3-指针运算" class="headerlink" title="3. 指针运算"></a>3. 指针运算</h3><blockquote><p>请问<code>p1+5=?</code></p><p>请问<code>p2+5=?</code></p></blockquote><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">unsigned char *p1;unsigned long *p2;p1=(unsigned char *)0x801000;p2=(unsigned long *)0x810000;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>答: <code>0x801005</code>, <code>0x810014</code></p><p>一个char占一个字节, 一个long占四个字节</p><p>对一个指针做加运算, 计算方式: <code>p_a + n * sizeof(type_p)</code>, 即所加之值要乘以类型所占字节</p></blockquote><h3 id="4-sizeof"><a href="#4-sizeof" class="headerlink" title="4. sizeof"></a>4. sizeof</h3><blockquote><p>下面程序的输出是?</p></blockquote><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">void example(char acWelcome[]){    printf("%d",sizeof(acWelcome));    return;}void main(){    char acWelcome[]="Welcome to Huawei Test";    example(acWelcome);    return;}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>答: <code>4</code></p><p>对于字符数组 <code>char arr[]="abcd"</code>, <code>sizeof(arr)</code>代表的是字符数组所占的字节数目(包括结尾<code>\0</code>), 但对于<code>char arr[20]="a"</code>而言, <code>sizeof(arr)</code>的值就是20, 对于<code>strlen(arr)</code>而言,求得的长度是字符串的长度(以<code>\0</code>作为结束符), 前面的例子中<code>strlen</code>分别输出4和1</p><p>对于字符指针<code>char *s="0123"</code>而言,<code>sizeof(arr)</code>单纯代表字符指针本身所占的字符数目,即4个字节. <code>strlen(arr)</code>对于字符指针仍然是求得字符串长度不变</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 习题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu 18.04 通过apt安装cuda</title>
       <link href="20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/"/>
       <url>20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</url>
@@ -157,9 +182,9 @@
       
         <tags>
             
-            <tag> PyTorch </tag>
-            
             <tag> BUG </tag>
+            
+            <tag> PyTorch </tag>
             
             <tag> PyTorch Lightning </tag>
             
@@ -388,9 +413,9 @@
       
         <tags>
             
-            <tag> PyTorch </tag>
-            
             <tag> BUG </tag>
+            
+            <tag> PyTorch </tag>
             
         </tags>
       
