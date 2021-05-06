@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://torch-fan.netlify.app/sitemap.xml
-Sitemap: https://torch-fan.netlify.app/baidusitemap.xml
+Sitemap: https://torch-fan.site/sitemap.xml
+Sitemap: https://torch-fan.site/baidusitemap.xml
