@@ -1,3 +1,4 @@
+https://torch-fan.netlify.app/20210506/shu-ju-ku-lian-jie-uri/
 https://torch-fan.netlify.app/20210506/ubuntu-18-04-pei-zhi-vncserver/
 https://torch-fan.netlify.app/20210505/c-xi-ti-2021-05-05/
 https://torch-fan.netlify.app/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/
