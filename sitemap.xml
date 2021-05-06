@@ -256,6 +256,27 @@
   </url>
   
   <url>
+    <loc>https://torch-fan.site/tags/%E6%A0%BC%E5%BC%8F/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/tags/C/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/tags/GPU/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torch-fan.site/tags/cuda/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
@@ -263,7 +284,21 @@
   </url>
   
   <url>
+    <loc>https://torch-fan.site/tags/MySQL/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torch-fan.site/tags/%E8%BF%87%E6%8B%9F%E5%90%88/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/tags/Tensorflow/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,35 +319,7 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/tags/GPU/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/Tensorflow/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/tags/PyTorch/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/testbed/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/minikube/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -340,6 +347,20 @@
   </url>
   
   <url>
+    <loc>https://torch-fan.site/tags/testbed/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/tags/minikube/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://torch-fan.site/tags/GitHub-APP/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
@@ -360,119 +381,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://torch-fan.site/tags/MySQL/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/C/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/%E6%A0%BC%E5%BC%8F/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://torch-fan.site/categories/%E5%8D%97%E5%BC%80/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/GPU/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/ML/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/Node-js/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/%E5%8D%97%E5%BC%80/Linux/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/GPU/Linux/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/container/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/Git/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/Linux/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/Tools/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/container/minikube/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/%E6%94%B6%E8%97%8F/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/%E4%B9%A0%E9%A2%98/</loc>
-    <lastmod>2021-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://torch-fan.site/categories/linux/</loc>
@@ -489,14 +398,42 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/categories/Git/Tools/</loc>
+    <loc>https://torch-fan.site/categories/%E4%B9%A0%E9%A2%98/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://torch-fan.site/categories/Linux/Tools/</loc>
+    <loc>https://torch-fan.site/categories/Linux/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/linux/VNC-Server/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/GPU/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/%E5%8D%97%E5%BC%80/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/ML/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -510,7 +447,70 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/categories/linux/VNC-Server/</loc>
+    <loc>https://torch-fan.site/categories/Node-js/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/Git/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/Linux/Tools/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/GPU/Linux/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/%E5%8D%97%E5%BC%80/Linux/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/Tools/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/container/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/%E6%94%B6%E8%97%8F/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/container/minikube/</loc>
+    <lastmod>2021-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/categories/Git/Tools/</loc>
     <lastmod>2021-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
