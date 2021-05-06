@@ -3,11 +3,11 @@
   <title>Torch</title>
   
   <subtitle>恒</subtitle>
-  <link href="https://torch-fan.site/atom.xml" rel="self"/>
+  <link href="https://www.torch-fan.site/atom.xml" rel="self"/>
   
-  <link href="https://torch-fan.site/"/>
+  <link href="https://www.torch-fan.site/"/>
   <updated>2021-05-06T02:31:19.613Z</updated>
-  <id>https://torch-fan.site/</id>
+  <id>https://www.torch-fan.site/</id>
   
   <author>
     <name>Torch Fan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>数据库连接URI</title>
-    <link href="https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/"/>
-    <id>https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/</id>
+    <link href="https://www.torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/"/>
+    <id>https://www.torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/</id>
     <published>2021-05-06T02:29:24.000Z</published>
     <updated>2021-05-06T02:31:19.613Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="数据库" scheme="https://torch-fan.site/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://www.torch-fan.site/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="格式" scheme="https://torch-fan.site/tags/%E6%A0%BC%E5%BC%8F/"/>
+    <category term="格式" scheme="https://www.torch-fan.site/tags/%E6%A0%BC%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu 18.04 配置VNCSERVER</title>
-    <link href="https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/"/>
-    <id>https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/</id>
+    <link href="https://www.torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/"/>
+    <id>https://www.torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/</id>
     <published>2021-05-06T02:14:03.000Z</published>
     <updated>2021-05-06T02:21:12.265Z</updated>
     
@@ -51,19 +51,19 @@
     
     
     
-    <category term="linux" scheme="https://torch-fan.site/categories/linux/"/>
+    <category term="linux" scheme="https://www.torch-fan.site/categories/linux/"/>
     
-    <category term="VNC Server" scheme="https://torch-fan.site/categories/linux/VNC-Server/"/>
+    <category term="VNC Server" scheme="https://www.torch-fan.site/categories/linux/VNC-Server/"/>
     
     
-    <category term="linux" scheme="https://torch-fan.site/tags/linux/"/>
+    <category term="linux" scheme="https://www.torch-fan.site/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>C++ 习题(2021.05.05)</title>
-    <link href="https://torch-fan.site/20210505/c-xi-ti-2021-05-05/"/>
-    <id>https://torch-fan.site/20210505/c-xi-ti-2021-05-05/</id>
+    <link href="https://www.torch-fan.site/20210505/c-xi-ti-2021-05-05/"/>
+    <id>https://www.torch-fan.site/20210505/c-xi-ti-2021-05-05/</id>
     <published>2021-05-05T11:36:55.000Z</published>
     <updated>2021-05-05T11:54:48.436Z</updated>
     
@@ -74,17 +74,17 @@
     
     
     
-    <category term="习题" scheme="https://torch-fan.site/categories/%E4%B9%A0%E9%A2%98/"/>
+    <category term="习题" scheme="https://www.torch-fan.site/categories/%E4%B9%A0%E9%A2%98/"/>
     
     
-    <category term="C++" scheme="https://torch-fan.site/tags/C/"/>
+    <category term="C++" scheme="https://www.torch-fan.site/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu 18.04 通过apt安装cuda</title>
-    <link href="https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/"/>
-    <id>https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</id>
+    <link href="https://www.torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/"/>
+    <id>https://www.torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</id>
     <published>2021-05-05T01:34:29.000Z</published>
     <updated>2021-05-05T01:38:14.875Z</updated>
     
@@ -95,23 +95,23 @@
     
     
     
-    <category term="Linux" scheme="https://torch-fan.site/categories/Linux/"/>
+    <category term="Linux" scheme="https://www.torch-fan.site/categories/Linux/"/>
     
-    <category term="GPU" scheme="https://torch-fan.site/categories/Linux/GPU/"/>
+    <category term="GPU" scheme="https://www.torch-fan.site/categories/Linux/GPU/"/>
     
     
-    <category term="linux" scheme="https://torch-fan.site/tags/linux/"/>
+    <category term="linux" scheme="https://www.torch-fan.site/tags/linux/"/>
     
-    <category term="cuda" scheme="https://torch-fan.site/tags/cuda/"/>
+    <category term="cuda" scheme="https://www.torch-fan.site/tags/cuda/"/>
     
-    <category term="GPU" scheme="https://torch-fan.site/tags/GPU/"/>
+    <category term="GPU" scheme="https://www.torch-fan.site/tags/GPU/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu18.04 安装mysql</title>
-    <link href="https://torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/"/>
-    <id>https://torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/</id>
+    <link href="https://www.torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/"/>
+    <id>https://www.torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/</id>
     <published>2021-05-04T01:45:55.000Z</published>
     <updated>2021-05-04T01:55:08.219Z</updated>
     
@@ -122,19 +122,19 @@
     
     
     
-    <category term="Linux" scheme="https://torch-fan.site/categories/Linux/"/>
+    <category term="Linux" scheme="https://www.torch-fan.site/categories/Linux/"/>
     
-    <category term="Tools" scheme="https://torch-fan.site/categories/Linux/Tools/"/>
+    <category term="Tools" scheme="https://www.torch-fan.site/categories/Linux/Tools/"/>
     
     
-    <category term="MySQL" scheme="https://torch-fan.site/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://www.torch-fan.site/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>网站收藏(长期更新)</title>
-    <link href="https://torch-fan.site/20210429/wang-zhan-shou-cang/"/>
-    <id>https://torch-fan.site/20210429/wang-zhan-shou-cang/</id>
+    <link href="https://www.torch-fan.site/20210429/wang-zhan-shou-cang/"/>
+    <id>https://www.torch-fan.site/20210429/wang-zhan-shou-cang/</id>
     <published>2021-04-29T10:16:58.000Z</published>
     <updated>2021-05-02T02:54:03.956Z</updated>
     
@@ -149,17 +149,17 @@
     
     
     
-    <category term="收藏" scheme="https://torch-fan.site/categories/%E6%94%B6%E8%97%8F/"/>
+    <category term="收藏" scheme="https://www.torch-fan.site/categories/%E6%94%B6%E8%97%8F/"/>
     
     
-    <category term="网址" scheme="https://torch-fan.site/tags/%E7%BD%91%E5%9D%80/"/>
+    <category term="网址" scheme="https://www.torch-fan.site/tags/%E7%BD%91%E5%9D%80/"/>
     
   </entry>
   
   <entry>
     <title>GitHub 帮你找缺陷</title>
-    <link href="https://torch-fan.site/20210429/github-bang-ni-zhao-que-xian/"/>
-    <id>https://torch-fan.site/20210429/github-bang-ni-zhao-que-xian/</id>
+    <link href="https://www.torch-fan.site/20210429/github-bang-ni-zhao-que-xian/"/>
+    <id>https://www.torch-fan.site/20210429/github-bang-ni-zhao-que-xian/</id>
     <published>2021-04-29T10:05:18.000Z</published>
     <updated>2021-04-29T10:11:53.309Z</updated>
     
@@ -174,21 +174,21 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
-    <category term="Tools" scheme="https://torch-fan.site/categories/Git/Tools/"/>
+    <category term="Tools" scheme="https://www.torch-fan.site/categories/Git/Tools/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
-    <category term="GitHub APP" scheme="https://torch-fan.site/tags/GitHub-APP/"/>
+    <category term="GitHub APP" scheme="https://www.torch-fan.site/tags/GitHub-APP/"/>
     
   </entry>
   
   <entry>
     <title>GitHub 访问速度慢解决方法</title>
-    <link href="https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/"/>
-    <id>https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/</id>
+    <link href="https://www.torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/"/>
+    <id>https://www.torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/</id>
     <published>2021-04-29T07:51:54.000Z</published>
     <updated>2021-04-29T08:15:35.129Z</updated>
     
@@ -203,17 +203,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="DNS" scheme="https://torch-fan.site/tags/DNS/"/>
+    <category term="DNS" scheme="https://www.torch-fan.site/tags/DNS/"/>
     
   </entry>
   
   <entry>
     <title>使用 PyTorch Lightning中遇到的问题和解决方法</title>
-    <link href="https://torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/"/>
-    <id>https://torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/</id>
+    <link href="https://www.torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/"/>
+    <id>https://www.torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/</id>
     <published>2021-04-28T08:00:37.000Z</published>
     <updated>2021-05-01T10:44:49.427Z</updated>
     
@@ -228,21 +228,21 @@
     
     
     
-    <category term="ML" scheme="https://torch-fan.site/categories/ML/"/>
+    <category term="ML" scheme="https://www.torch-fan.site/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
-    <category term="PyTorch" scheme="https://torch-fan.site/tags/PyTorch/"/>
+    <category term="PyTorch" scheme="https://www.torch-fan.site/tags/PyTorch/"/>
     
-    <category term="PyTorch Lightning" scheme="https://torch-fan.site/tags/PyTorch-Lightning/"/>
+    <category term="PyTorch Lightning" scheme="https://www.torch-fan.site/tags/PyTorch-Lightning/"/>
     
   </entry>
   
   <entry>
     <title>vscode 使用中遇到的问题</title>
-    <link href="https://torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/"/>
-    <id>https://torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/</id>
+    <link href="https://www.torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/"/>
+    <id>https://www.torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/</id>
     <published>2021-04-27T12:41:40.000Z</published>
     <updated>2021-04-27T12:50:28.247Z</updated>
     
@@ -256,17 +256,17 @@
     
     
     
-    <category term="Tools" scheme="https://torch-fan.site/categories/Tools/"/>
+    <category term="Tools" scheme="https://www.torch-fan.site/categories/Tools/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
   </entry>
   
   <entry>
     <title>Windows SSH使用中遇到的中文用户名问题</title>
-    <link href="https://torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/"/>
-    <id>https://torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/</id>
+    <link href="https://www.torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/"/>
+    <id>https://www.torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/</id>
     <published>2021-04-27T12:02:05.000Z</published>
     <updated>2021-04-27T12:41:15.402Z</updated>
     
@@ -281,19 +281,19 @@
     
     
     
-    <category term="Linux" scheme="https://torch-fan.site/categories/Linux/"/>
+    <category term="Linux" scheme="https://www.torch-fan.site/categories/Linux/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
-    <category term="ssh" scheme="https://torch-fan.site/tags/ssh/"/>
+    <category term="ssh" scheme="https://www.torch-fan.site/tags/ssh/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Actions(二) 使用经验</title>
-    <link href="https://torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/"/>
-    <id>https://torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/</id>
+    <link href="https://www.torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/"/>
+    <id>https://www.torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/</id>
     <published>2021-04-27T08:54:03.000Z</published>
     <updated>2021-04-27T08:58:42.942Z</updated>
     
@@ -307,17 +307,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Actions 支持的shell</title>
-    <link href="https://torch-fan.site/20210427/github-actions-zhi-chi-de-shell/"/>
-    <id>https://torch-fan.site/20210427/github-actions-zhi-chi-de-shell/</id>
+    <link href="https://www.torch-fan.site/20210427/github-actions-zhi-chi-de-shell/"/>
+    <id>https://www.torch-fan.site/20210427/github-actions-zhi-chi-de-shell/</id>
     <published>2021-04-27T07:47:44.000Z</published>
     <updated>2021-04-27T07:56:40.121Z</updated>
     
@@ -336,17 +336,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Actions模式匹配规则</title>
-    <link href="https://torch-fan.site/20210427/github-actions-mo-shi-pi-pei-gui-ze/"/>
-    <id>https://torch-fan.site/20210427/github-actions-mo-shi-pi-pei-gui-ze/</id>
+    <link href="https://www.torch-fan.site/20210427/github-actions-mo-shi-pi-pei-gui-ze/"/>
+    <id>https://www.torch-fan.site/20210427/github-actions-mo-shi-pi-pei-gui-ze/</id>
     <published>2021-04-27T06:52:05.000Z</published>
     <updated>2021-04-27T06:57:56.394Z</updated>
     
@@ -370,17 +370,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>GitHtHub Actions的Workflow语法</title>
-    <link href="https://torch-fan.site/20210427/giththub-actions-de-workflow-yu-fa/"/>
-    <id>https://torch-fan.site/20210427/giththub-actions-de-workflow-yu-fa/</id>
+    <link href="https://www.torch-fan.site/20210427/giththub-actions-de-workflow-yu-fa/"/>
+    <id>https://www.torch-fan.site/20210427/giththub-actions-de-workflow-yu-fa/</id>
     <published>2021-04-27T06:24:35.000Z</published>
     <updated>2021-04-27T07:55:39.425Z</updated>
     
@@ -397,17 +397,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Actions(一) 使用Actions</title>
-    <link href="https://torch-fan.site/20210427/github-actions-yi-shi-yong-actions/"/>
-    <id>https://torch-fan.site/20210427/github-actions-yi-shi-yong-actions/</id>
+    <link href="https://www.torch-fan.site/20210427/github-actions-yi-shi-yong-actions/"/>
+    <id>https://www.torch-fan.site/20210427/github-actions-yi-shi-yong-actions/</id>
     <published>2021-04-27T06:03:25.000Z</published>
     <updated>2021-04-27T06:22:34.817Z</updated>
     
@@ -422,17 +422,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Actions快速开始(翻译)</title>
-    <link href="https://torch-fan.site/20210427/github-actions-kuai-su-kai-shi-fan-yi/"/>
-    <id>https://torch-fan.site/20210427/github-actions-kuai-su-kai-shi-fan-yi/</id>
+    <link href="https://www.torch-fan.site/20210427/github-actions-kuai-su-kai-shi-fan-yi/"/>
+    <id>https://www.torch-fan.site/20210427/github-actions-kuai-su-kai-shi-fan-yi/</id>
     <published>2021-04-27T05:40:52.000Z</published>
     <updated>2021-04-27T05:59:00.482Z</updated>
     
@@ -448,17 +448,17 @@
     
     
     
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    <category term="Git" scheme="https://www.torch-fan.site/categories/Git/"/>
     
     
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
+    <category term="GitHub Actions" scheme="https://www.torch-fan.site/tags/GitHub-Actions/"/>
     
   </entry>
   
   <entry>
     <title>PyTorch 使用中可能遇到的错误信息</title>
-    <link href="https://torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/"/>
-    <id>https://torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</id>
+    <link href="https://www.torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/"/>
+    <id>https://www.torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</id>
     <published>2021-04-26T11:11:37.000Z</published>
     <updated>2021-05-01T10:44:10.194Z</updated>
     
@@ -472,19 +472,19 @@
     
     
     
-    <category term="ML" scheme="https://torch-fan.site/categories/ML/"/>
+    <category term="ML" scheme="https://www.torch-fan.site/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
-    <category term="PyTorch" scheme="https://torch-fan.site/tags/PyTorch/"/>
+    <category term="PyTorch" scheme="https://www.torch-fan.site/tags/PyTorch/"/>
     
   </entry>
   
   <entry>
     <title>istio 故障注入</title>
-    <link href="https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/"/>
-    <id>https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</id>
+    <link href="https://www.torch-fan.site/20210426/istio-gu-zhang-zhu-ru/"/>
+    <id>https://www.torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</id>
     <published>2021-04-26T09:39:37.000Z</published>
     <updated>2021-04-26T10:18:04.833Z</updated>
     
@@ -498,25 +498,25 @@
     
     
     
-    <category term="container" scheme="https://torch-fan.site/categories/container/"/>
+    <category term="container" scheme="https://www.torch-fan.site/categories/container/"/>
     
-    <category term="minikube" scheme="https://torch-fan.site/categories/container/minikube/"/>
+    <category term="minikube" scheme="https://www.torch-fan.site/categories/container/minikube/"/>
     
     
-    <category term="testbed" scheme="https://torch-fan.site/tags/testbed/"/>
+    <category term="testbed" scheme="https://www.torch-fan.site/tags/testbed/"/>
     
-    <category term="minikube" scheme="https://torch-fan.site/tags/minikube/"/>
+    <category term="minikube" scheme="https://www.torch-fan.site/tags/minikube/"/>
     
   </entry>
   
   <entry>
     <title>istio bookinfo微服务搭建testbed流程</title>
-    <link href="https://torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/"/>
-    <id>https://torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/</id>
+    <link href="https://www.torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/"/>
+    <id>https://www.torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/</id>
     <published>2021-04-26T02:20:48.000Z</published>
     <updated>2021-04-26T02:57:45.151Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>当你看到这篇文章时，文章所附的链接可能随着软件版本迭代而失效，应该根据具体所处情况按照文章去寻找适合自己的软件</p></blockquote><h2 id="1-安装minikube和kubectl"><a href="#1-安装minikube和kubectl" class="headerlink" title="1. 安装minikube和kubectl"></a>1. 安装minikube和kubectl</h2><blockquote><p>安装kubectl可以参考: <a href="https://kubernetes.io/docs/tasks/tools/install-kubectl/">https://kubernetes.io/docs/tasks/tools/install-kubectl/</a></p><p>安装minikube可参考：<a href="https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/">https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/</a></p></blockquote><p>这里提供了下载最新kubectl和minikube的命令行方式：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 下载最新kubectl</span><span class="token function">curl</span> -LO <span class="token string">"https://dl.k8s.io/release/<span class="token variable"><span class="token variable">$(</span><span class="token function">curl</span> -L -s https://dl.k8s.io/release/stable.txt<span class="token variable">)</span></span>/bin/linux/amd64/kubectl"</span><span class="token comment"># 安装</span><span class="token function">sudo</span> <span class="token function">install</span> kubectl /usr/bin/ <span class="token comment"># 下载minikube</span><span class="token function">curl</span> -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 <span class="token punctuation">\</span>  <span class="token operator">&amp;&amp;</span> <span class="token function">chmod</span> +x minikube-linux-amd64<span class="token comment"># 安装minikube</span><span class="token function">sudo</span> <span class="token function">install</span> minikube-linux-amd64 /usr/bin/minikube<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-搭建istio所需平台"><a href="#2-搭建istio所需平台" class="headerlink" title="2. 搭建istio所需平台"></a>2. 搭建istio所需平台</h2><p>搭建istio可以使用许多平台，对于个人用户，minikube应该是最好的选择。创建minikube虚拟机参考文档：<a href="https://istio.io/latest/zh/docs/setup/platform-setup/minikube/">https://istio.io/latest/zh/docs/setup/platform-setup/minikube/</a></p><p>ubuntu18.04安装minikube kvm2驱动参考文档：(就个人体验而言，kvm2驱动体验最好)</p><ul><li><a href="https://minikube.sigs.k8s.io/docs/drivers/kvm2/">https://minikube.sigs.k8s.io/docs/drivers/kvm2/</a></li><li><a href="https://minikube.sigs.k8s.io/docs/start/#install-a-hypervisor">https://minikube.sigs.k8s.io/docs/start/#install-a-hypervisor</a></li><li><a href="https://help.ubuntu.com/community/KVM/Installation">https://help.ubuntu.com/community/KVM/Installation</a></li></ul><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 在ubuntu18.04中创建基于kvm2的minikube虚拟机</span><span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils<span class="token function">sudo</span> adduser <span class="token variable"><span class="token variable">`</span><span class="token function">id</span> -un<span class="token variable">`</span></span> libvirt  <span class="token comment"># 添加当前用户到 libvirt用户组</span><span class="token function">sudo</span> adduser <span class="token variable"><span class="token variable">`</span><span class="token function">id</span> -un<span class="token variable">`</span></span> kvm  <span class="token comment"># 添加当前用户到kvm用户组</span><span class="token comment"># 如果你的操作系统版本不是Ubtuntu18.04 请自行从上方文档链接中寻找对应的操作系统安装方式</span><span class="token comment"># 启动基于kvm2驱动的minikube虚拟机</span>minikube config <span class="token builtin class-name">set</span> vm-driver kvm2minikube start --memory<span class="token operator">=</span><span class="token number">16384</span> --cpus<span class="token operator">=</span><span class="token number">4</span> --kubernetes-version<span class="token operator">=</span>v1.18.2  <span class="token comment"># 注意这里的版本应该与kubectl --version的版本应该接近，否则可能不兼容</span><span class="token comment"># 如果遇到下载镜像错误的问题：（磁盘空间没必要那么大）</span>minikube start --memory<span class="token operator">=</span><span class="token number">32768</span> --cpus<span class="token operator">=</span><span class="token number">4</span> --disk-size<span class="token operator">=</span>200000mb --kubernetes-version<span class="token operator">=</span>v1.18.10 --image-repository<span class="token operator">=</span><span class="token string">'registry.cn-hangzhou.aliyuncs.com/google_containers'</span><span class="token comment"># 如果需要使用virtualbox驱动</span>minikube start --memory<span class="token operator">=</span><span class="token number">32768</span> --cpus<span class="token operator">=</span><span class="token number">4</span> --kubernetes-version<span class="token operator">=</span>v1.18.10 --image-repository<span class="token operator">=</span><span class="token string">'registry.cn-hangzhou.aliyuncs.com/google_containers'</span> --driver<span class="token operator">=</span>virtualbox<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>至此，一个基于kvm2驱动的minikube虚拟机搭建完成：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 在minikube中查看内存使用的方式</span>$ minikube <span class="token function">ssh</span>  <span class="token comment"># 进入minikube中</span>$ <span class="token function">top</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h2 id="3-安装istio"><a href="#3-安装istio" class="headerlink" title="3. 安装istio"></a>3. 安装istio</h2><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 下载istio</span><span class="token function">curl</span> -L https://istio.io/downloadIstio <span class="token operator">|</span> <span class="token function">sh</span> -<span class="token comment"># 进入根目录，文章编写之时是istio-1.8.2的版本</span><span class="token builtin class-name">cd</span> istio-1.8.2<span class="token comment"># 该文件夹下有istioctl等一些工具，因此需要配置环境变量</span><span class="token builtin class-name">export</span> <span class="token assign-left variable"><span class="token environment constant">PATH</span></span><span class="token operator">=</span><span class="token environment constant">$PWD</span>/bin:<span class="token environment constant">$PATH</span>  <span class="token comment"># 也可以在~/.bashrc中配置</span><span class="token comment"># 使用官方提供的Demo配置文件安装istio即可（满足大部分的需求）</span>istioctl manifest <span class="token function">install</span> --set <span class="token assign-left variable">profile</span><span class="token operator">=</span>demo<span class="token comment"># 至此，istio安装完成，下面是监测是否正确安装的流程</span>kubectl get svc -n istio-system <span class="token comment"># 查看所有的服务</span>kubectl get pods -n istio-system <span class="token comment"># 查看所有的Pod</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4-安装Demo-：-bookinfo"><a href="#4-安装Demo-：-bookinfo" class="headerlink" title="4. 安装Demo ： bookinfo"></a>4. 安装Demo ： bookinfo</h2><blockquote><p>对于boolinfo这个示例，官网已经给出了非常多的文档说明，说明了如何配置变更和故障注入：<a href="https://istio.io/latest/zh/docs/examples/bookinfo/">https://istio.io/latest/zh/docs/examples/bookinfo/</a></p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 进入istio根目录（即上面所说的istio-1.8.2）</span><span class="token comment"># 为default命名空间打上标签：istio-injection=enabled</span>kubectl label namespace default istio-injection<span class="token operator">=</span>enabled<span class="token comment"># 使用kubectl 部署应用</span>kubectl apply -f samples/bookinfo/platform/kube/bookinfo.yaml<span class="token comment"># 检查服务是否正常启动：</span>kubectl get services<span class="token comment"># 检查Pods是否正常启动：</span>kubectl get Pods <span class="token comment"># bookinfo服务启动的比较慢，建议等久一点</span><span class="token comment"># Service和Pods都启动完毕后通过下面指令检查服务是否正常运行：</span>$ kubectl <span class="token builtin class-name">exec</span> -it <span class="token variable"><span class="token variable">$(</span>kubectl get pod -l <span class="token assign-left variable">app</span><span class="token operator">=</span>ratings -o <span class="token assign-left variable">jsonpath</span><span class="token operator">=</span><span class="token string">'{.items[0].metadata.name}'</span><span class="token variable">)</span></span> -c ratings -- <span class="token function">curl</span> productpage:9080/productpage <span class="token operator">|</span> <span class="token function">grep</span> -o <span class="token string">"&lt;title&gt;.*&lt;/title&gt;"</span><span class="token comment"># 输出应该是：&lt;title&gt;Simple Bookstore App&lt;/title&gt;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="5-安装node-exporter系统指标收集工具"><a href="#5-安装node-exporter系统指标收集工具" class="headerlink" title="5. 安装node-exporter系统指标收集工具"></a>5. 安装node-exporter系统指标收集工具</h2><blockquote><p>参考博客:  <a href="https://www.wqblogs.com/2020/04/17/k8s%E9%83%A8%E7%BD%B2node-exporter/#%E4%BA%A4%E4%BB%98node-exporter">https://www.wqblogs.com/2020/04/17/k8s%E9%83%A8%E7%BD%B2node-exporter/#%E4%BA%A4%E4%BB%98node-exporter</a></p></blockquote><p>部署node-exporter服务,需要安装node-exporter可执行文件, 我的这个仓库里有一份但可能版本相对比较老了: <a href="https://github.com/QiliangFan/istio_testbed/tree/dev">https://github.com/QiliangFan/istio_testbed/tree/dev</a>, 也可以去官网上下, 然后把可执行文件放在环境变量包含的路径下。</p><p>node-exporter部署的yaml文件内容如下:</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token comment"># node_exporter.yaml</span><span class="token key atrule">apiVersion</span><span class="token punctuation">:</span> apps/v1<span class="token key atrule">kind</span><span class="token punctuation">:</span> DaemonSet<span class="token key atrule">metadata</span><span class="token punctuation">:</span>  <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">namespace</span><span class="token punctuation">:</span> default     <span class="token key atrule">labels</span><span class="token punctuation">:</span>    <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token comment"># 注意放在恰当的命名空间中</span><span class="token key atrule">spec</span><span class="token punctuation">:</span>  <span class="token key atrule">selector</span><span class="token punctuation">:</span>    <span class="token key atrule">matchLabels</span><span class="token punctuation">:</span>      <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">template</span><span class="token punctuation">:</span>    <span class="token key atrule">metadata</span><span class="token punctuation">:</span>      <span class="token key atrule">labels</span><span class="token punctuation">:</span>        <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter    <span class="token key atrule">spec</span><span class="token punctuation">:</span>      <span class="token key atrule">hostPID</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">hostIPC</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">hostNetwork</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">containers</span><span class="token punctuation">:</span>      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter        <span class="token key atrule">image</span><span class="token punctuation">:</span> prom/node<span class="token punctuation">-</span>exporter<span class="token punctuation">:</span>v1.0.1  <span class="token comment"># 注意用相对较新的版本</span>        <span class="token key atrule">ports</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">containerPort</span><span class="token punctuation">:</span> <span class="token number">9100</span>        <span class="token key atrule">resources</span><span class="token punctuation">:</span>          <span class="token key atrule">requests</span><span class="token punctuation">:</span>            <span class="token key atrule">cpu</span><span class="token punctuation">:</span> <span class="token number">0.15</span>        <span class="token key atrule">securityContext</span><span class="token punctuation">:</span>          <span class="token key atrule">privileged</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>        <span class="token key atrule">args</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>path.procfs        <span class="token punctuation">-</span> /host/proc        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>path.sysfs        <span class="token punctuation">-</span> /host/sys        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>collector.filesystem.ignored<span class="token punctuation">-</span>mount<span class="token punctuation">-</span>points        <span class="token punctuation">-</span> <span class="token string">'"^/(sys|proc|dev|host|etc)($|/)"'</span>        <span class="token key atrule">volumeMounts</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> dev          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/dev        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> proc          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/proc        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> sys          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/sys        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> rootfs          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /rootfs      <span class="token key atrule">tolerations</span><span class="token punctuation">:</span>      <span class="token punctuation">-</span> <span class="token key atrule">key</span><span class="token punctuation">:</span> <span class="token string">"node-role.kubernetes.io/master"</span>        <span class="token key atrule">operator</span><span class="token punctuation">:</span> <span class="token string">"Exists"</span>        <span class="token key atrule">effect</span><span class="token punctuation">:</span> <span class="token string">"NoSchedule"</span>      <span class="token key atrule">volumes</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> proc          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /proc        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> dev          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /dev        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> sys          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /sys        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> rootfs          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>为了后续安装的Prometheus能看到node-exporter的IP和端口，需要手动配置。首先我们查看node-exporter使用的IP和端口：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">kubectl get pods -o wide  <span class="token comment"># 查看node-exporter使用的IP和端口,端口在上面的配置文件中写为9100,一般不会变</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>接下来要修改Prometheus的配置文件, 在scrape_configs 中添加一个job_name :node_exporter.</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token punctuation">-</span> <span class="token key atrule">job_name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">honor_timestamps</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>  <span class="token key atrule">scrape_interval</span><span class="token punctuation">:</span> 30s  <span class="token key atrule">scrape_timeout</span><span class="token punctuation">:</span> 10s  <span class="token key atrule">metrics_path</span><span class="token punctuation">:</span> /metrics  <span class="token key atrule">scheme</span><span class="token punctuation">:</span> http  <span class="token key atrule">static_configs</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">targets</span><span class="token punctuation">:</span>    <span class="token punctuation">-</span> 192.168.39.170<span class="token punctuation">:</span><span class="token number">9100</span>  <span class="token comment"># 此处为node-exporter的IP和端口</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="6-安装Prometheus指标收集工具"><a href="#6-安装Prometheus指标收集工具" class="headerlink" title="6. 安装Prometheus指标收集工具"></a>6. 安装Prometheus指标收集工具</h2><blockquote><p>参考文档:</p><p><a href="https://istio.io/latest/docs/ops/integrations/prometheus/">https://istio.io/latest/docs/ops/integrations/prometheus/</a></p><p> <a href="https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/">https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/</a></p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token comment"># 安装Prometheus（进入istio根目录）</span>kubectl apply -f samples/addons/prometheus.yaml<span class="token comment"># 验证已经运行着Prometheus</span>kubectl -n istio-system get svc prometheus<span class="token comment"># 进行端口转发使得可以从外部访问Prometheus</span>kubectl -n istio-system port-forward <span class="token variable"><span class="token variable">$(</span>kubectl -n istio-system get pod -l <span class="token assign-left variable">app</span><span class="token operator">=</span>prometheus -o <span class="token assign-left variable">jsonpath</span><span class="token operator">=</span><span class="token string">'{.items[0].metadata.name}'</span><span class="token variable">)</span></span> <span class="token number">9090</span>:9090 <span class="token operator">&amp;</span><span class="token comment"># 在浏览器中访问http://localhost:9090/graph 即可打开Prometheus面板</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="7-转发bookinfo前端页面端口"><a href="#7-转发bookinfo前端页面端口" class="headerlink" title="7. 转发bookinfo前端页面端口"></a>7. 转发bookinfo前端页面端口</h2><blockquote><p>如果要在本地访问bookinfo的前端或者做压力测试，需要把bookinfo的前端端口转发出来</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"><span class="token builtin class-name">export</span> <span class="token assign-left variable">INGRESS_PORT</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>kubectl -n istio-system get <span class="token function">service</span> istio-ingressgateway -o <span class="token assign-left variable">jsonpath</span><span class="token operator">=</span><span class="token string">'{.spec.ports[?(@.name=="http2")].nodePort}'</span><span class="token variable">)</span></span><span class="token builtin class-name">export</span> <span class="token assign-left variable">SECURE_INGRESS_PORT</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>kubectl -n istio-system get <span class="token function">service</span> istio-ingressgateway -o <span class="token assign-left variable">jsonpath</span><span class="token operator">=</span><span class="token string">'{.spec.ports[?(@.name=="https")].nodePort}'</span><span class="token variable">)</span></span><span class="token builtin class-name">export</span> <span class="token assign-left variable">INGRESS_HOST</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span>minikube <span class="token function">ip</span><span class="token variable">)</span></span><span class="token builtin class-name">export</span> <span class="token assign-left variable">GATEWAY_URL</span><span class="token operator">=</span><span class="token variable">$INGRESS_HOST</span><span class="token builtin class-name">:</span><span class="token variable">$INGRESS_PORT</span>  <span class="token comment"># GATEWAY_URL即为bookinfo页面前端端口的IP和端口了</span><span class="token builtin class-name">echo</span> <span class="token variable">$GATEWAY_URL</span>  <span class="token comment"># 查看IP和端口</span><span class="token comment"># 用$GATEWAY_URL/productpage 访问</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="8-使用Prometheus收集指标"><a href="#8-使用Prometheus收集指标" class="headerlink" title="8. 使用Prometheus收集指标"></a>8. 使用Prometheus收集指标</h2><blockquote><p>使用Prometheus查询指标数据, 可以参考官方的文档说明: <a href="https://prometheus.io/docs/prometheus/latest/querying/basics/">https://prometheus.io/docs/prometheus/latest/querying/basics/</a></p><p>Istio也提供了一些文档说明: <a href="https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/">https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/</a></p></blockquote><p>实际使用中，主要使用的获取指标的URL是（需要先将Prometheus的端口转发出来）：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">http://localhost:9090/api/v1/query?query<span class="token operator">=</span><span class="token operator">&lt;</span>指标名字<span class="token operator">&gt;</span> <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&lt;指标名字&gt;可以相当灵活, 这里是一些&lt;指标名字&gt;的示例:</p><blockquote><p>请求productpage总次数：</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total<span class="token punctuation">{</span>destination_service<span class="token operator">=</span><span class="token string">"productpage.default.svc.cluster.local"</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>请求reviews服务v3版本的次数：</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total<span class="token punctuation">{</span>destination_service<span class="token operator">=</span><span class="token string">"reviews.default.svc.cluster.local"</span>, <span class="token assign-left variable">destination_version</span><span class="token operator">=</span><span class="token string">"v3"</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>过去5分钟请求productpage服务的总次数</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total<span class="token punctuation">{</span>destination_service<span class="token operator">=</span>~<span class="token string">"productpage.*"</span>, <span class="token assign-left variable">response_code</span><span class="token operator">=</span><span class="token string">"200"</span><span class="token punctuation">}</span><span class="token punctuation">[</span>5m<span class="token punctuation">]</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>过去5分钟请求productpage服务的速率</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">rate<span class="token punctuation">(</span>istio_requests_total<span class="token punctuation">{</span>destination_service<span class="token operator">=</span>~<span class="token string">"productpage.*"</span>, <span class="token assign-left variable">response_code</span><span class="token operator">=</span><span class="token string">"200"</span><span class="token punctuation">}</span><span class="token punctuation">[</span>5m<span class="token punctuation">]</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="9-安装额外组件"><a href="#9-安装额外组件" class="headerlink" title="9. 安装额外组件"></a>9. 安装额外组件</h2><blockquote><p>istio平台已经提过了相当多的额外组件,安装其他额外组件就像安装Preometheus一样简单, 这里以kiali为例:</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">kubectl apply -f samples/addons/kiali.yaml  <span class="token comment"># 安装组件</span>istioctl dashboard kiali <span class="token comment"># 启动该kiali组件的dashboard</span>  <span class="token comment"># 随后进入prometheus的targets页面, 可以查看所有组件目前状况</span><span class="token comment"># http://localhost:9090/targets</span><span class="token comment"># 要想访问Prometheus页面, 需要先转发端口</span>kubectl -n istio-system port-forward <span class="token variable"><span class="token variable">$(</span>kubectl -n istio-system get pod -l <span class="token assign-left variable">app</span><span class="token operator">=</span>prometheus -o <span class="token assign-left variable">jsonpath</span><span class="token operator">=</span><span class="token string">'{.items[0].metadata.name}'</span><span class="token variable">)</span></span> <span class="token number">9090</span>:9090  <span class="token comment"># 将端口转发出来</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>当你看到这篇文章时，文章所附的链接可能随着软件版本迭代而失效，应该根据具体所处情况按照文章去寻找适合自己的软件</p></blockquote><h2 id="1-安装minikube和kubectl"><a href="#1-安装minikube和kubectl" class="headerlink" title="1. 安装minikube和kubectl"></a>1. 安装minikube和kubectl</h2><blockquote><p>安装kubectl可以参考: <a href="https://kubernetes.io/docs/tasks/tools/install-kubectl/">https://kubernetes.io/docs/tasks/tools/install-kubectl/</a></p><p>安装minikube可参考：<a href="https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/">https://v1-18.docs.kubernetes.io/docs/tasks/tools/install-minikube/</a></p></blockquote><p>这里提供了下载最新kubectl和minikube的命令行方式：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 下载最新kubectlcurl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"# 安装sudo install kubectl /usr/bin/ # 下载minikubecurl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \  &amp;&amp; chmod +x minikube-linux-amd64# 安装minikubesudo install minikube-linux-amd64 /usr/bin/minikube<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="2-搭建istio所需平台"><a href="#2-搭建istio所需平台" class="headerlink" title="2. 搭建istio所需平台"></a>2. 搭建istio所需平台</h2><p>搭建istio可以使用许多平台，对于个人用户，minikube应该是最好的选择。创建minikube虚拟机参考文档：<a href="https://istio.io/latest/zh/docs/setup/platform-setup/minikube/">https://istio.io/latest/zh/docs/setup/platform-setup/minikube/</a></p><p>ubuntu18.04安装minikube kvm2驱动参考文档：(就个人体验而言，kvm2驱动体验最好)</p><ul><li><a href="https://minikube.sigs.k8s.io/docs/drivers/kvm2/">https://minikube.sigs.k8s.io/docs/drivers/kvm2/</a></li><li><a href="https://minikube.sigs.k8s.io/docs/start/#install-a-hypervisor">https://minikube.sigs.k8s.io/docs/start/#install-a-hypervisor</a></li><li><a href="https://help.ubuntu.com/community/KVM/Installation">https://help.ubuntu.com/community/KVM/Installation</a></li></ul><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 在ubuntu18.04中创建基于kvm2的minikube虚拟机sudo apt-get install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utilssudo adduser `id -un` libvirt  # 添加当前用户到 libvirt用户组sudo adduser `id -un` kvm  # 添加当前用户到kvm用户组# 如果你的操作系统版本不是Ubtuntu18.04 请自行从上方文档链接中寻找对应的操作系统安装方式# 启动基于kvm2驱动的minikube虚拟机minikube config set vm-driver kvm2minikube start --memory=16384 --cpus=4 --kubernetes-version=v1.18.2  # 注意这里的版本应该与kubectl --version的版本应该接近，否则可能不兼容# 如果遇到下载镜像错误的问题：（磁盘空间没必要那么大）minikube start --memory=32768 --cpus=4 --disk-size=200000mb --kubernetes-version=v1.18.10 --image-repository='registry.cn-hangzhou.aliyuncs.com/google_containers'# 如果需要使用virtualbox驱动minikube start --memory=32768 --cpus=4 --kubernetes-version=v1.18.10 --image-repository='registry.cn-hangzhou.aliyuncs.com/google_containers' --driver=virtualbox<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>至此，一个基于kvm2驱动的minikube虚拟机搭建完成：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 在minikube中查看内存使用的方式$ minikube ssh  # 进入minikube中$ top<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h2 id="3-安装istio"><a href="#3-安装istio" class="headerlink" title="3. 安装istio"></a>3. 安装istio</h2><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 下载istiocurl -L https://istio.io/downloadIstio | sh -# 进入根目录，文章编写之时是istio-1.8.2的版本cd istio-1.8.2# 该文件夹下有istioctl等一些工具，因此需要配置环境变量export PATH=$PWD/bin:$PATH  # 也可以在~/.bashrc中配置# 使用官方提供的Demo配置文件安装istio即可（满足大部分的需求）istioctl manifest install --set profile=demo# 至此，istio安装完成，下面是监测是否正确安装的流程kubectl get svc -n istio-system # 查看所有的服务kubectl get pods -n istio-system # 查看所有的Pod<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4-安装Demo-：-bookinfo"><a href="#4-安装Demo-：-bookinfo" class="headerlink" title="4. 安装Demo ： bookinfo"></a>4. 安装Demo ： bookinfo</h2><blockquote><p>对于boolinfo这个示例，官网已经给出了非常多的文档说明，说明了如何配置变更和故障注入：<a href="https://istio.io/latest/zh/docs/examples/bookinfo/">https://istio.io/latest/zh/docs/examples/bookinfo/</a></p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 进入istio根目录（即上面所说的istio-1.8.2）# 为default命名空间打上标签：istio-injection=enabledkubectl label namespace default istio-injection=enabled# 使用kubectl 部署应用kubectl apply -f samples/bookinfo/platform/kube/bookinfo.yaml# 检查服务是否正常启动：kubectl get services# 检查Pods是否正常启动：kubectl get Pods # bookinfo服务启动的比较慢，建议等久一点# Service和Pods都启动完毕后通过下面指令检查服务是否正常运行：$ kubectl exec -it $(kubectl get pod -l app=ratings -o jsonpath='{.items[0].metadata.name}') -c ratings -- curl productpage:9080/productpage | grep -o "&lt;title&gt;.*&lt;/title&gt;"# 输出应该是：&lt;title&gt;Simple Bookstore App&lt;/title&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="5-安装node-exporter系统指标收集工具"><a href="#5-安装node-exporter系统指标收集工具" class="headerlink" title="5. 安装node-exporter系统指标收集工具"></a>5. 安装node-exporter系统指标收集工具</h2><blockquote><p>参考博客:  <a href="https://www.wqblogs.com/2020/04/17/k8s%E9%83%A8%E7%BD%B2node-exporter/#%E4%BA%A4%E4%BB%98node-exporter">https://www.wqblogs.com/2020/04/17/k8s%E9%83%A8%E7%BD%B2node-exporter/#%E4%BA%A4%E4%BB%98node-exporter</a></p></blockquote><p>部署node-exporter服务,需要安装node-exporter可执行文件, 我的这个仓库里有一份但可能版本相对比较老了: <a href="https://github.com/QiliangFan/istio_testbed/tree/dev">https://github.com/QiliangFan/istio_testbed/tree/dev</a>, 也可以去官网上下, 然后把可执行文件放在环境变量包含的路径下。</p><p>node-exporter部署的yaml文件内容如下:</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token comment"># node_exporter.yaml</span><span class="token key atrule">apiVersion</span><span class="token punctuation">:</span> apps/v1<span class="token key atrule">kind</span><span class="token punctuation">:</span> DaemonSet<span class="token key atrule">metadata</span><span class="token punctuation">:</span>  <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">namespace</span><span class="token punctuation">:</span> default     <span class="token key atrule">labels</span><span class="token punctuation">:</span>    <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token comment"># 注意放在恰当的命名空间中</span><span class="token key atrule">spec</span><span class="token punctuation">:</span>  <span class="token key atrule">selector</span><span class="token punctuation">:</span>    <span class="token key atrule">matchLabels</span><span class="token punctuation">:</span>      <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">template</span><span class="token punctuation">:</span>    <span class="token key atrule">metadata</span><span class="token punctuation">:</span>      <span class="token key atrule">labels</span><span class="token punctuation">:</span>        <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter    <span class="token key atrule">spec</span><span class="token punctuation">:</span>      <span class="token key atrule">hostPID</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">hostIPC</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">hostNetwork</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>      <span class="token key atrule">containers</span><span class="token punctuation">:</span>      <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter        <span class="token key atrule">image</span><span class="token punctuation">:</span> prom/node<span class="token punctuation">-</span>exporter<span class="token punctuation">:</span>v1.0.1  <span class="token comment"># 注意用相对较新的版本</span>        <span class="token key atrule">ports</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">containerPort</span><span class="token punctuation">:</span> <span class="token number">9100</span>        <span class="token key atrule">resources</span><span class="token punctuation">:</span>          <span class="token key atrule">requests</span><span class="token punctuation">:</span>            <span class="token key atrule">cpu</span><span class="token punctuation">:</span> <span class="token number">0.15</span>        <span class="token key atrule">securityContext</span><span class="token punctuation">:</span>          <span class="token key atrule">privileged</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>        <span class="token key atrule">args</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>path.procfs        <span class="token punctuation">-</span> /host/proc        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>path.sysfs        <span class="token punctuation">-</span> /host/sys        <span class="token punctuation">-</span> <span class="token punctuation">-</span><span class="token punctuation">-</span>collector.filesystem.ignored<span class="token punctuation">-</span>mount<span class="token punctuation">-</span>points        <span class="token punctuation">-</span> <span class="token string">'"^/(sys|proc|dev|host|etc)($|/)"'</span>        <span class="token key atrule">volumeMounts</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> dev          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/dev        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> proc          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/proc        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> sys          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /host/sys        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> rootfs          <span class="token key atrule">mountPath</span><span class="token punctuation">:</span> /rootfs      <span class="token key atrule">tolerations</span><span class="token punctuation">:</span>      <span class="token punctuation">-</span> <span class="token key atrule">key</span><span class="token punctuation">:</span> <span class="token string">"node-role.kubernetes.io/master"</span>        <span class="token key atrule">operator</span><span class="token punctuation">:</span> <span class="token string">"Exists"</span>        <span class="token key atrule">effect</span><span class="token punctuation">:</span> <span class="token string">"NoSchedule"</span>      <span class="token key atrule">volumes</span><span class="token punctuation">:</span>        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> proc          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /proc        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> dev          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /dev        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> sys          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /sys        <span class="token punctuation">-</span> <span class="token key atrule">name</span><span class="token punctuation">:</span> rootfs          <span class="token key atrule">hostPath</span><span class="token punctuation">:</span>            <span class="token key atrule">path</span><span class="token punctuation">:</span> /<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>为了后续安装的Prometheus能看到node-exporter的IP和端口，需要手动配置。首先我们查看node-exporter使用的IP和端口：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">kubectl get pods -o wide  # 查看node-exporter使用的IP和端口,端口在上面的配置文件中写为9100,一般不会变<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>接下来要修改Prometheus的配置文件, 在scrape_configs 中添加一个job_name :node_exporter.</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token punctuation">-</span> <span class="token key atrule">job_name</span><span class="token punctuation">:</span> node<span class="token punctuation">-</span>exporter  <span class="token key atrule">honor_timestamps</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>  <span class="token key atrule">scrape_interval</span><span class="token punctuation">:</span> 30s  <span class="token key atrule">scrape_timeout</span><span class="token punctuation">:</span> 10s  <span class="token key atrule">metrics_path</span><span class="token punctuation">:</span> /metrics  <span class="token key atrule">scheme</span><span class="token punctuation">:</span> http  <span class="token key atrule">static_configs</span><span class="token punctuation">:</span>  <span class="token punctuation">-</span> <span class="token key atrule">targets</span><span class="token punctuation">:</span>    <span class="token punctuation">-</span> 192.168.39.170<span class="token punctuation">:</span><span class="token number">9100</span>  <span class="token comment"># 此处为node-exporter的IP和端口</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="6-安装Prometheus指标收集工具"><a href="#6-安装Prometheus指标收集工具" class="headerlink" title="6. 安装Prometheus指标收集工具"></a>6. 安装Prometheus指标收集工具</h2><blockquote><p>参考文档:</p><p><a href="https://istio.io/latest/docs/ops/integrations/prometheus/">https://istio.io/latest/docs/ops/integrations/prometheus/</a></p><p> <a href="https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/">https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/</a></p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell"># 安装Prometheus（进入istio根目录）kubectl apply -f samples/addons/prometheus.yaml# 验证已经运行着Prometheuskubectl -n istio-system get svc prometheus# 进行端口转发使得可以从外部访问Prometheuskubectl -n istio-system port-forward $(kubectl -n istio-system get pod -l app=prometheus -o jsonpath='{.items[0].metadata.name}') 9090:9090 &amp;# 在浏览器中访问http://localhost:9090/graph 即可打开Prometheus面板<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="7-转发bookinfo前端页面端口"><a href="#7-转发bookinfo前端页面端口" class="headerlink" title="7. 转发bookinfo前端页面端口"></a>7. 转发bookinfo前端页面端口</h2><blockquote><p>如果要在本地访问bookinfo的前端或者做压力测试，需要把bookinfo的前端端口转发出来</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">export INGRESS_PORT=$(kubectl -n istio-system get service istio-ingressgateway -o jsonpath='{.spec.ports[?(@.name=="http2")].nodePort}')export SECURE_INGRESS_PORT=$(kubectl -n istio-system get service istio-ingressgateway -o jsonpath='{.spec.ports[?(@.name=="https")].nodePort}')export INGRESS_HOST=$(minikube ip)export GATEWAY_URL=$INGRESS_HOST:$INGRESS_PORT  # GATEWAY_URL即为bookinfo页面前端端口的IP和端口了echo $GATEWAY_URL  # 查看IP和端口# 用$GATEWAY_URL/productpage 访问<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="8-使用Prometheus收集指标"><a href="#8-使用Prometheus收集指标" class="headerlink" title="8. 使用Prometheus收集指标"></a>8. 使用Prometheus收集指标</h2><blockquote><p>使用Prometheus查询指标数据, 可以参考官方的文档说明: <a href="https://prometheus.io/docs/prometheus/latest/querying/basics/">https://prometheus.io/docs/prometheus/latest/querying/basics/</a></p><p>Istio也提供了一些文档说明: <a href="https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/">https://istio.io/latest/zh/docs/tasks/observability/metrics/querying-metrics/</a></p></blockquote><p>实际使用中，主要使用的获取指标的URL是（需要先将Prometheus的端口转发出来）：</p><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">http://localhost:9090/api/v1/query?query=&lt;指标名字&gt; <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&lt;指标名字&gt;可以相当灵活, 这里是一些&lt;指标名字&gt;的示例:</p><blockquote><p>请求productpage总次数：</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total{destination_service="productpage.default.svc.cluster.local"}<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>请求reviews服务v3版本的次数：</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total{destination_service="reviews.default.svc.cluster.local", destination_version="v3"}<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>过去5分钟请求productpage服务的总次数</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">istio_requests_total{destination_service=~"productpage.*", response_code="200"}[5m]<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>过去5分钟请求productpage服务的速率</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">rate(istio_requests_total{destination_service=~"productpage.*", response_code="200"}[5m])<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="9-安装额外组件"><a href="#9-安装额外组件" class="headerlink" title="9. 安装额外组件"></a>9. 安装额外组件</h2><blockquote><p>istio平台已经提过了相当多的额外组件,安装其他额外组件就像安装Preometheus一样简单, 这里以kiali为例:</p></blockquote><pre class="line-numbers language-shell" data-language="shell"><code class="language-shell">kubectl apply -f samples/addons/kiali.yaml  # 安装组件istioctl dashboard kiali # 启动该kiali组件的dashboard  # 随后进入prometheus的targets页面, 可以查看所有组件目前状况# http://localhost:9090/targets# 要想访问Prometheus页面, 需要先转发端口kubectl -n istio-system port-forward $(kubectl -n istio-system get pod -l app=prometheus -o jsonpath='{.items[0].metadata.name}') 9090:9090  # 将端口转发出来<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
       
@@ -529,14 +529,14 @@
     
     
     
-    <category term="container" scheme="https://torch-fan.site/categories/container/"/>
+    <category term="container" scheme="https://www.torch-fan.site/categories/container/"/>
     
-    <category term="minikube" scheme="https://torch-fan.site/categories/container/minikube/"/>
+    <category term="minikube" scheme="https://www.torch-fan.site/categories/container/minikube/"/>
     
     
-    <category term="testbed" scheme="https://torch-fan.site/tags/testbed/"/>
+    <category term="testbed" scheme="https://www.torch-fan.site/tags/testbed/"/>
     
-    <category term="minikube" scheme="https://torch-fan.site/tags/minikube/"/>
+    <category term="minikube" scheme="https://www.torch-fan.site/tags/minikube/"/>
     
   </entry>
   
