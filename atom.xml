@@ -252,9 +252,9 @@
     <category term="ML" scheme="https://www.torch-fan.site/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
-    
     <category term="PyTorch" scheme="https://www.torch-fan.site/tags/PyTorch/"/>
+    
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
     <category term="PyTorch Lightning" scheme="https://www.torch-fan.site/tags/PyTorch-Lightning/"/>
     
@@ -496,9 +496,9 @@
     <category term="ML" scheme="https://www.torch-fan.site/categories/ML/"/>
     
     
-    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
-    
     <category term="PyTorch" scheme="https://www.torch-fan.site/tags/PyTorch/"/>
+    
+    <category term="BUG" scheme="https://www.torch-fan.site/tags/BUG/"/>
     
   </entry>
   
