@@ -378,9 +378,9 @@
     <category term="ML" scheme="https://torch-fan.site/categories/ML/"/>
     
     
-    <category term="PyTorch" scheme="https://torch-fan.site/tags/PyTorch/"/>
-    
     <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
+    
+    <category term="PyTorch" scheme="https://torch-fan.site/tags/PyTorch/"/>
     
     <category term="PyTorch Lightning" scheme="https://torch-fan.site/tags/PyTorch-Lightning/"/>
     
