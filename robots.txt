@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://www.torch-fan.site/sitemap.xml
 Sitemap: https://www.torch-fan.site/baidusitemap.xml
+Sitemap: https://torch-fan.site/sitemap.xml
+Sitemap: https://torch-fan.site/baidusitemap.xml
