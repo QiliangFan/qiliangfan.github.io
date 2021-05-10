@@ -249,9 +249,9 @@
     
     <category term="linux" scheme="https://torch-fan.site/tags/linux/"/>
     
-    <category term="cuda" scheme="https://torch-fan.site/tags/cuda/"/>
-    
     <category term="GPU" scheme="https://torch-fan.site/tags/GPU/"/>
+    
+    <category term="cuda" scheme="https://torch-fan.site/tags/cuda/"/>
     
   </entry>
   
