@@ -6,7 +6,7 @@
   <link href="https://torch-fan.site/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.site/"/>
-  <updated>2021-05-09T10:24:52.804Z</updated>
+  <updated>2021-05-12T01:03:46.577Z</updated>
   <id>https://torch-fan.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图神经网络-图嵌入</title>
+    <link href="https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/"/>
+    <id>https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/</id>
+    <published>2021-05-11T13:25:37.000Z</published>
+    <updated>2021-05-12T01:03:46.577Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>研究图神经网络的目的是为了弄清: <a href="/20210507/learning-scheduling-algorithms-for-data-processing-clusters/" title="《Learning Scheduling Algorithms for Data Processing Clusters》">《Learning Scheduling Algorithms for Data Processing Clusters》</a></p></blockquote><h2 id="1-图嵌入的意义"><a href="#1-图嵌入的意义" class="headerlink" title="1. 图嵌入的意义:"></a>1. 图嵌入的意义:</h2><blockquote><p>万事万物，凡是有联系，就能构成一张图。</p></blockquote><p>图分析任务可抽象为以下四类：</p><ul><li>节点分类</li><li>链接预测</li><li>聚类</li><li>可视化</li></ul><p>使用邻接矩阵来代表整个图是不现实的，一个图的规模可能非常大。<code>嵌入</code>可以将节点属性映射到一个维度更小的向量中。</p><p>图嵌入一般分为两类：</p><ul><li>节点嵌入（node-level embedding)：每个顶点用一个嵌入向量来表示</li><li>图（层次）嵌入（<strong>graph-level embedding</strong>）：每个DAG图用一个嵌入向量来表示</li></ul><h2 id="2-图嵌入（顶点嵌入方式）："><a href="#2-图嵌入（顶点嵌入方式）：" class="headerlink" title="2. 图嵌入（顶点嵌入方式）："></a>2. 图嵌入（顶点嵌入方式）：</h2><blockquote><p>随机游走法和深度方法嵌入将单独细聊</p></blockquote><ol><li><p>因式分解法：</p></li><li><p>随机游走法：</p></li><li><p>深度方法：</p></li></ol>]]></content>
+    
+    
+    <summary type="html">图神经网络-图嵌入</summary>
+    
+    
+    
+    <category term="Graph Neural Network" scheme="https://torch-fan.site/categories/Graph-Neural-Network/"/>
+    
+    
+    <category term="Graph Embedding" scheme="https://torch-fan.site/tags/Graph-Embedding/"/>
+    
+  </entry>
   
   <entry>
     <title>GitHub Actions常用Actions</title>
@@ -450,35 +471,6 @@
       
       
     <summary type="html">&lt;h2 id=&quot;1-常用的Actions&quot;&gt;&lt;a href=&quot;#1-常用的Actions&quot; class=&quot;headerlink&quot; title=&quot;1. 常用的Actions&quot;&gt;&lt;/a&gt;1. 常用的Actions&lt;/h2&gt;&lt;h3 id=&quot;1-checkout&quot;&gt;&lt;a href=&quot;#1</summary>
-      
-    
-    
-    
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
-    
-    
-    <category term="GitHub Actions" scheme="https://torch-fan.site/tags/GitHub-Actions/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GitHub Actions 支持的shell</title>
-    <link href="https://torch-fan.site/20210427/github-actions-zhi-chi-de-shell/"/>
-    <id>https://torch-fan.site/20210427/github-actions-zhi-chi-de-shell/</id>
-    <published>2021-04-27T07:47:44.000Z</published>
-    <updated>2021-04-27T07:56:40.121Z</updated>
-    
-    <content type="html"><![CDATA[<table><thead><tr><th>All</th><th><code>bash</code></th><th>The default shell on non-Windows platforms with a fallback to <code>sh</code>. When specifying a bash shell on Windows, the bash shell included with Git for Windows is used.</th><th><code>bash --noprofile --norc -eo pipefail {0}</code></th></tr></thead><tbody><tr><td>All</td><td><code>pwsh</code></td><td>The PowerShell Core. GitHub appends the extension <code>.ps1</code> to your script name.</td><td><code>pwsh -command ". '{0}'"</code></td></tr><tr><td>All</td><td><code>python</code></td><td>Executes the python command.</td><td><code>python {0}</code></td></tr><tr><td>Linux / macOS</td><td><code>sh</code></td><td>The fallback behavior for non-Windows platforms if no shell is provided and <code>bash</code> is not found in the path.</td><td><code>sh -e {0}</code></td></tr><tr><td>Windows</td><td><code>cmd</code></td><td>GitHub appends the extension <code>.cmd</code> to your script name and substitutes for <code>{0}</code>.</td><td><code>%ComSpec% /D /E:ON /V:OFF /S /C "CALL "{0}""</code>.</td></tr><tr><td>Windows</td><td><code>pwsh</code></td><td>This is the default shell used on Windows. The PowerShell Core. GitHub appends the extension <code>.ps1</code> to your script name. If your self-hosted Windows runner does not have <em>PowerShell Core</em> installed, then <em>PowerShell Desktop</em> is used instead.</td><td><code>pwsh -command ". '{0}'"</code>.</td></tr><tr><td>Windows</td><td><code>powershell</code></td><td>The PowerShell Desktop. GitHub appends the extension <code>.ps1</code> to your script name.</td><td><code>powershell -command ". '{0}'"</code>.</td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;All&lt;/th&gt;
-&lt;th&gt;&lt;code&gt;bash&lt;/code&gt;&lt;/th&gt;
-&lt;th&gt;The default shell on non-Windows platforms with a fallback to &lt;code&gt;sh&lt;/cod</summary>
       
     
     
