@@ -56,7 +56,7 @@
     
     
     <entry>
-      <title>图神经网络-图嵌入</title>
+      <title></title>
       <link href="20210511/tu-shen-jing-wang-luo-tu-qian-ru/"/>
       <url>20210511/tu-shen-jing-wang-luo-tu-qian-ru/</url>
       
@@ -351,11 +351,11 @@
       
         <tags>
             
-            <tag> GPU </tag>
-            
             <tag> linux </tag>
             
             <tag> cuda </tag>
+            
+            <tag> GPU </tag>
             
         </tags>
       
