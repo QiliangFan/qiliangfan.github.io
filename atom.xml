@@ -6,7 +6,7 @@
   <link href="https://torch-fan.site/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.site/"/>
-  <updated>2021-05-13T03:56:11.603Z</updated>
+  <updated>2021-05-13T05:43:26.863Z</updated>
   <id>https://torch-fan.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图神经网络-图嵌入(深度学习方法)</title>
+    <link href="https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/"/>
+    <id>https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/</id>
+    <published>2021-05-13T05:36:07.000Z</published>
+    <updated>2021-05-13T05:43:26.863Z</updated>
+    
+    
+    <summary type="html">图神经网络-图嵌入(深度学习方法)</summary>
+    
+    
+    
+    <category term="图神经网络" scheme="https://torch-fan.site/categories/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="Graph Embedding" scheme="https://torch-fan.site/tags/Graph-Embedding/"/>
+    
+    <category term="图嵌入" scheme="https://torch-fan.site/tags/%E5%9B%BE%E5%B5%8C%E5%85%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>图神经网络-随机游走</title>
@@ -451,30 +472,6 @@
     <category term="PyTorch" scheme="https://torch-fan.site/tags/PyTorch/"/>
     
     <category term="PyTorch Lightning" scheme="https://torch-fan.site/tags/PyTorch-Lightning/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vscode 使用中遇到的问题</title>
-    <link href="https://torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/"/>
-    <id>https://torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/</id>
-    <published>2021-04-27T12:41:40.000Z</published>
-    <updated>2021-04-27T12:50:28.247Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-连接terminal-pty超时："><a href="#1-连接terminal-pty超时：" class="headerlink" title="1. 连接terminal pty超时："></a>1. 连接terminal pty超时：</h2><blockquote><p>可能原因:  </p><p>这个问题可能是环境变量混乱导致vscode不知道打开哪个终端一直在查找。</p></blockquote><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案:"></a>解决方案:</h3><ul><li>打开设置</li></ul><p><a href="https://imgtu.com/i/gCUvfP"><img src="/loading.gif" data-original="https://z3.ax1x.com/2021/04/27/gCUvfP.png" alt="打开设置"></a></p><ul><li>打开终端(terminal)设置</li></ul><p><a href="https://imgtu.com/i/gCa9Og"><img src="/loading.gif" data-original="https://z3.ax1x.com/2021/04/27/gCa9Og.png" alt="打开终端"></a></p><ul><li>配置terminal路径:</li></ul><p><a href="https://imgtu.com/i/gCaiwj"><img src="/loading.gif" data-original="https://z3.ax1x.com/2021/04/27/gCaiwj.png" alt="点击Edit in settings.json"></a></p><p><a href="https://imgtu.com/i/gCaEYq"><img src="/loading.gif" data-original="https://z3.ax1x.com/2021/04/27/gCaEYq.png" alt="增加图中所示的一行"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;1-连接terminal-pty超时：&quot;&gt;&lt;a href=&quot;#1-连接terminal-pty超时：&quot; class=&quot;headerlink&quot; title=&quot;1. 连接terminal pty超时：&quot;&gt;&lt;/a&gt;1. 连接terminal pty超时：&lt;/h2&gt;&lt;bl</summary>
-      
-    
-    
-    
-    <category term="Tools" scheme="https://torch-fan.site/categories/Tools/"/>
-    
-    
-    <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
     
   </entry>
   
