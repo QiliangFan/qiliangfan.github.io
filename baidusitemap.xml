@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/</loc>
+    <lastmod>2021-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</loc>
+    <lastmod>2021-05-14</lastmod>
+  </url>
+  <url>
     <loc>https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
@@ -22,6 +30,10 @@
   </url>
   <url>
     <loc>https://torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</loc>
+    <lastmod>2021-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
   <url>
@@ -69,10 +81,6 @@
     <lastmod>2021-05-14</lastmod>
   </url>
   <url>
-    <loc>https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</loc>
-    <lastmod>2021-05-14</lastmod>
-  </url>
-  <url>
     <loc>https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
@@ -82,10 +90,6 @@
   </url>
   <url>
     <loc>https://torch-fan.site/20210507/github-actions-cao-zuo-issue/</loc>
-    <lastmod>2021-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
   <url>
@@ -147,10 +151,6 @@
   <url>
     <loc>https://torch-fan.site/20210421/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
     <lastmod>2021-04-27</lastmod>
-  </url>
-  <url>
-    <loc>https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</loc>
-    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/</loc>
