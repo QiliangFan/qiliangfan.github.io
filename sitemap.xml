@@ -2,7 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210429/wang-zhan-shou-cang/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210424/cuda-python-ban-ben-dui-ying-guan-xi/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210421/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
+    
+    <lastmod>2021-05-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://torch-fan.site/20210424/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -30,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/20210424/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210424/cuda-python-ban-ben-dui-ying-guan-xi/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/20210424/pytorch-lightning-jian-yao-jie-shao/</loc>
     
     <lastmod>2021-05-14</lastmod>
@@ -52,13 +101,6 @@
   
   <url>
     <loc>https://torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210426/istio-gu-zhang-zhu-ru/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -205,30 +247,9 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/</loc>
-    
-    <lastmod>2021-05-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210429/wang-zhan-shou-cang/</loc>
-    
-    <lastmod>2021-05-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/20210508/xi-la-zi-mu-biao/</loc>
     
     <lastmod>2021-05-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/</loc>
-    
-    <lastmod>2021-05-07</lastmod>
     
   </url>
   
@@ -247,13 +268,6 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/</loc>
-    
-    <lastmod>2021-04-29</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/bb/index.html</loc>
     
     <lastmod>2021-04-29</lastmod>
@@ -264,20 +278,6 @@
     <loc>https://torch-fan.site/20210417/linux-cuda/</loc>
     
     <lastmod>2021-04-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210421/nan-kai-ming-ling-xing-deng-lu-wang-guan-fang-shi/</loc>
-    
-    <lastmod>2021-04-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/</loc>
-    
-    <lastmod>2021-04-26</lastmod>
     
   </url>
   
