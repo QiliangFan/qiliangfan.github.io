@@ -8,9 +8,21 @@
       <link href="20210515/github-actions-chang-yong-dai-ma-pian-duan/"/>
       <url>20210515/github-actions-chang-yong-dai-ma-pian-duan/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="1-编写GitHub-Actions常用库"><a href="#1-编写GitHub-Actions常用库" class="headerlink" title="1. 编写GitHub Actions常用库"></a>1. 编写GitHub Actions常用库</h2><pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token keyword">const</span> core <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">'@actions/core'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">const</span> github <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">'@actions/github'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">const</span> <span class="token punctuation">{</span> Octokit <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">'@octokit/rest'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">const</span> token <span class="token operator">=</span> core<span class="token punctuation">.</span><span class="token function">getInput</span><span class="token punctuation">(</span><span class="token string">'token'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">const</span> octokit <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Octokit</span><span class="token punctuation">(</span><span class="token punctuation">{</span> auth<span class="token operator">:</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">token </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>token<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub Actions </tag>
+            
+        </tags>
       
     </entry>
     
