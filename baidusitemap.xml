@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/</loc>
+    <lastmod>2021-05-15</lastmod>
+  </url>
+  <url>
     <loc>https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
@@ -38,6 +42,10 @@
   </url>
   <url>
     <loc>https://torch-fan.site/20210424/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/</loc>
+    <lastmod>2021-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://torch-fan.site/20210416/xin-de-kai-shi/</loc>
     <lastmod>2021-05-14</lastmod>
   </url>
   <url>
@@ -159,9 +167,5 @@
   <url>
     <loc>https://torch-fan.site/20210424/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/</loc>
     <lastmod>2021-04-24</lastmod>
-  </url>
-  <url>
-    <loc>https://torch-fan.site/20210416/xin-de-kai-shi/</loc>
-    <lastmod>2021-04-16</lastmod>
   </url>
 </urlset> 
