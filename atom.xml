@@ -18,8 +18,8 @@
   
   <entry>
     <title>Dockerfile 语法</title>
-    <link href="https://torch-fan.site/20210515/dockerfile-yu-fa/"/>
-    <id>https://torch-fan.site/20210515/dockerfile-yu-fa/</id>
+    <link href="https://torch-fan.site/2021/05/15/dockerfile-yu-fa/"/>
+    <id>https://torch-fan.site/2021/05/15/dockerfile-yu-fa/</id>
     <published>2021-05-15T05:36:18.000Z</published>
     <updated>2021-05-15T08:39:37.984Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>GitHub Actions常用代码片段</title>
-    <link href="https://torch-fan.site/20210515/github-actions-chang-yong-dai-ma-pian-duan/"/>
-    <id>https://torch-fan.site/20210515/github-actions-chang-yong-dai-ma-pian-duan/</id>
+    <link href="https://torch-fan.site/2021/05/15/github-actions-chang-yong-dai-ma-pian-duan/"/>
+    <id>https://torch-fan.site/2021/05/15/github-actions-chang-yong-dai-ma-pian-duan/</id>
     <published>2021-05-15T03:45:01.000Z</published>
     <updated>2021-05-15T11:48:37.746Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>GitHub 上下文环境</title>
-    <link href="https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/"/>
-    <id>https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/</id>
+    <link href="https://torch-fan.site/2021/05/15/github-shang-xia-wen-huan-jing/"/>
+    <id>https://torch-fan.site/2021/05/15/github-shang-xia-wen-huan-jing/</id>
     <published>2021-05-15T02:35:34.000Z</published>
     <updated>2021-05-15T03:44:40.940Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>上GitHub不要梯子</title>
-    <link href="https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/"/>
-    <id>https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/</id>
+    <link href="https://torch-fan.site/2021/05/14/ni-shang-github-huan-yao-ti-zi/"/>
+    <id>https://torch-fan.site/2021/05/14/ni-shang-github-huan-yao-ti-zi/</id>
     <published>2021-05-14T11:27:20.000Z</published>
     <updated>2021-05-15T11:39:33.498Z</updated>
     
@@ -106,8 +106,8 @@
   
   <entry>
     <title>docker操作</title>
-    <link href="https://torch-fan.site/20210514/docker-cao-zuo/"/>
-    <id>https://torch-fan.site/20210514/docker-cao-zuo/</id>
+    <link href="https://torch-fan.site/2021/05/14/docker-cao-zuo/"/>
+    <id>https://torch-fan.site/2021/05/14/docker-cao-zuo/</id>
     <published>2021-05-14T06:53:48.000Z</published>
     <updated>2021-05-14T07:38:58.149Z</updated>
     
@@ -129,8 +129,8 @@
   
   <entry>
     <title>图神经网络-图嵌入(深度学习方法)</title>
-    <link href="https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/"/>
-    <id>https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/</id>
+    <link href="https://torch-fan.site/2021/05/13/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/"/>
+    <id>https://torch-fan.site/2021/05/13/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/</id>
     <published>2021-05-13T05:36:07.000Z</published>
     <updated>2021-05-13T06:29:26.087Z</updated>
     
@@ -144,16 +144,16 @@
     <category term="图神经网络" scheme="https://torch-fan.site/categories/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="图嵌入" scheme="https://torch-fan.site/tags/%E5%9B%BE%E5%B5%8C%E5%85%A5/"/>
-    
     <category term="Graph Embedding" scheme="https://torch-fan.site/tags/Graph-Embedding/"/>
+    
+    <category term="图嵌入" scheme="https://torch-fan.site/tags/%E5%9B%BE%E5%B5%8C%E5%85%A5/"/>
     
   </entry>
   
   <entry>
     <title>图神经网络-随机游走</title>
-    <link href="https://torch-fan.site/20210512/tu-shen-jing-wang-luo-sui-ji-you-zou/"/>
-    <id>https://torch-fan.site/20210512/tu-shen-jing-wang-luo-sui-ji-you-zou/</id>
+    <link href="https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-sui-ji-you-zou/"/>
+    <id>https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-sui-ji-you-zou/</id>
     <published>2021-05-12T02:08:39.000Z</published>
     <updated>2021-05-13T03:56:11.603Z</updated>
     
@@ -176,8 +176,8 @@
   
   <entry>
     <title>图神经网络-DeepWalk</title>
-    <link href="https://torch-fan.site/20210512/tu-shen-jing-wang-luo-deepwalk/"/>
-    <id>https://torch-fan.site/20210512/tu-shen-jing-wang-luo-deepwalk/</id>
+    <link href="https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-deepwalk/"/>
+    <id>https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-deepwalk/</id>
     <published>2021-05-12T01:19:53.000Z</published>
     <updated>2021-05-13T03:52:09.283Z</updated>
     
@@ -199,12 +199,12 @@
   
   <entry>
     <title>图神经网络-图嵌入</title>
-    <link href="https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/"/>
-    <id>https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/</id>
+    <link href="https://torch-fan.site/2021/05/11/tu-shen-jing-wang-luo-tu-qian-ru/"/>
+    <id>https://torch-fan.site/2021/05/11/tu-shen-jing-wang-luo-tu-qian-ru/</id>
     <published>2021-05-11T13:25:37.000Z</published>
     <updated>2021-05-14T05:48:30.144Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>研究图神经网络的目的是为了弄清: <a href="/20210507/learning-scheduling-algorithms-for-data-processing-clusters/" title="《Learning Scheduling Algorithms for Data Processing Clusters》">《Learning Scheduling Algorithms for Data Processing Clusters》</a></p></blockquote><h2 id="1-图嵌入的意义"><a href="#1-图嵌入的意义" class="headerlink" title="1. 图嵌入的意义:"></a>1. 图嵌入的意义:</h2><blockquote><p>万事万物，凡是有联系，就能构成一张图。</p></blockquote><p>图分析任务可抽象为以下四类：</p><ul><li>节点分类</li><li>链接预测</li><li>聚类</li><li>可视化</li></ul><p>使用邻接矩阵来代表整个图是不现实的，一个图的规模可能非常大。<code>嵌入</code>可以将节点属性映射到一个维度更小的向量中。</p><p>图嵌入一般分为两类：</p><ul><li>节点嵌入（node-level embedding)：每个顶点用一个嵌入向量来表示</li><li>图（层次）嵌入（<strong>graph-level embedding</strong>）：每个DAG图用一个嵌入向量来表示</li></ul><h2 id="2-图嵌入（顶点嵌入方式）："><a href="#2-图嵌入（顶点嵌入方式）：" class="headerlink" title="2. 图嵌入（顶点嵌入方式）："></a>2. 图嵌入（顶点嵌入方式）：</h2><blockquote><p>随机游走法和深度方法嵌入将单独细聊</p></blockquote><ol><li><p>因式分解法：</p></li><li><p>随机游走法：</p></li><li><p>深度方法：</p></li></ol>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>研究图神经网络的目的是为了弄清: <a href="/2021/05/07/learning-scheduling-algorithms-for-data-processing-clusters/" title="《Learning Scheduling Algorithms for Data Processing Clusters》">《Learning Scheduling Algorithms for Data Processing Clusters》</a></p></blockquote><h2 id="1-图嵌入的意义"><a href="#1-图嵌入的意义" class="headerlink" title="1. 图嵌入的意义:"></a>1. 图嵌入的意义:</h2><blockquote><p>万事万物，凡是有联系，就能构成一张图。</p></blockquote><p>图分析任务可抽象为以下四类：</p><ul><li>节点分类</li><li>链接预测</li><li>聚类</li><li>可视化</li></ul><p>使用邻接矩阵来代表整个图是不现实的，一个图的规模可能非常大。<code>嵌入</code>可以将节点属性映射到一个维度更小的向量中。</p><p>图嵌入一般分为两类：</p><ul><li>节点嵌入（node-level embedding)：每个顶点用一个嵌入向量来表示</li><li>图（层次）嵌入（<strong>graph-level embedding</strong>）：每个DAG图用一个嵌入向量来表示</li></ul><h2 id="2-图嵌入（顶点嵌入方式）："><a href="#2-图嵌入（顶点嵌入方式）：" class="headerlink" title="2. 图嵌入（顶点嵌入方式）："></a>2. 图嵌入（顶点嵌入方式）：</h2><blockquote><p>随机游走法和深度方法嵌入将单独细聊</p></blockquote><ol><li><p>因式分解法：</p></li><li><p>随机游走法：</p></li><li><p>深度方法：</p></li></ol>]]></content>
     
     
     <summary type="html">图神经网络-图嵌入</summary>
@@ -220,8 +220,8 @@
   
   <entry>
     <title>GitHub Actions常用Actions</title>
-    <link href="https://torch-fan.site/20210509/github-actions-chang-yong-actions/"/>
-    <id>https://torch-fan.site/20210509/github-actions-chang-yong-actions/</id>
+    <link href="https://torch-fan.site/2021/05/09/github-actions-chang-yong-actions/"/>
+    <id>https://torch-fan.site/2021/05/09/github-actions-chang-yong-actions/</id>
     <published>2021-05-09T10:23:11.000Z</published>
     <updated>2021-05-14T11:38:28.702Z</updated>
     
@@ -241,8 +241,8 @@
   
   <entry>
     <title>希腊字母表</title>
-    <link href="https://torch-fan.site/20210508/xi-la-zi-mu-biao/"/>
-    <id>https://torch-fan.site/20210508/xi-la-zi-mu-biao/</id>
+    <link href="https://torch-fan.site/2021/05/08/xi-la-zi-mu-biao/"/>
+    <id>https://torch-fan.site/2021/05/08/xi-la-zi-mu-biao/</id>
     <published>2021-05-08T13:19:20.000Z</published>
     <updated>2021-05-08T13:20:12.696Z</updated>
     
@@ -262,8 +262,8 @@
   
   <entry>
     <title>开源协议介绍</title>
-    <link href="https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/"/>
-    <id>https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/</id>
+    <link href="https://torch-fan.site/2021/05/07/kai-yuan-xie-yi-jie-shao/"/>
+    <id>https://torch-fan.site/2021/05/07/kai-yuan-xie-yi-jie-shao/</id>
     <published>2021-05-07T10:57:25.000Z</published>
     <updated>2021-05-14T13:10:51.114Z</updated>
     
@@ -283,8 +283,8 @@
   
   <entry>
     <title>《Learning Scheduling Algorithms for Data Processing Clusters》</title>
-    <link href="https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/"/>
-    <id>https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/</id>
+    <link href="https://torch-fan.site/2021/05/07/learning-scheduling-algorithms-for-data-processing-clusters/"/>
+    <id>https://torch-fan.site/2021/05/07/learning-scheduling-algorithms-for-data-processing-clusters/</id>
     <published>2021-05-07T10:13:11.000Z</published>
     <updated>2021-05-14T13:15:41.773Z</updated>
     
@@ -304,8 +304,8 @@
   
   <entry>
     <title>git rm --cached无法从仓库区删除某文件</title>
-    <link href="https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/"/>
-    <id>https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/</id>
+    <link href="https://torch-fan.site/2021/05/07/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/"/>
+    <id>https://torch-fan.site/2021/05/07/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/</id>
     <published>2021-05-07T08:25:06.000Z</published>
     <updated>2021-05-14T12:24:52.008Z</updated>
     
@@ -325,8 +325,8 @@
   
   <entry>
     <title>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</title>
-    <link href="https://torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/"/>
-    <id>https://torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/</id>
+    <link href="https://torch-fan.site/2021/05/07/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/"/>
+    <id>https://torch-fan.site/2021/05/07/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/</id>
     <published>2021-05-07T05:58:45.000Z</published>
     <updated>2021-05-07T07:01:22.262Z</updated>
     
@@ -346,8 +346,8 @@
   
   <entry>
     <title>GitHub Actions操作issue</title>
-    <link href="https://torch-fan.site/20210507/github-actions-cao-zuo-issue/"/>
-    <id>https://torch-fan.site/20210507/github-actions-cao-zuo-issue/</id>
+    <link href="https://torch-fan.site/2021/05/07/github-actions-cao-zuo-issue/"/>
+    <id>https://torch-fan.site/2021/05/07/github-actions-cao-zuo-issue/</id>
     <published>2021-05-07T02:43:47.000Z</published>
     <updated>2021-05-14T11:38:42.974Z</updated>
     
@@ -367,8 +367,8 @@
   
   <entry>
     <title>数据库连接URI</title>
-    <link href="https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/"/>
-    <id>https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/</id>
+    <link href="https://torch-fan.site/2021/05/06/shu-ju-ku-lian-jie-uri/"/>
+    <id>https://torch-fan.site/2021/05/06/shu-ju-ku-lian-jie-uri/</id>
     <published>2021-05-06T02:29:24.000Z</published>
     <updated>2021-05-14T11:38:46.335Z</updated>
     
@@ -388,8 +388,8 @@
   
   <entry>
     <title>Ubuntu 18.04 配置VNCSERVER</title>
-    <link href="https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/"/>
-    <id>https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/</id>
+    <link href="https://torch-fan.site/2021/05/06/ubuntu-18-04-pei-zhi-vncserver/"/>
+    <id>https://torch-fan.site/2021/05/06/ubuntu-18-04-pei-zhi-vncserver/</id>
     <published>2021-05-06T02:14:03.000Z</published>
     <updated>2021-05-14T11:38:50.064Z</updated>
     
@@ -411,8 +411,8 @@
   
   <entry>
     <title>C++ 习题(2021.05.05)</title>
-    <link href="https://torch-fan.site/20210505/c-xi-ti-2021-05-05/"/>
-    <id>https://torch-fan.site/20210505/c-xi-ti-2021-05-05/</id>
+    <link href="https://torch-fan.site/2021/05/05/c-xi-ti-2021-05-05/"/>
+    <id>https://torch-fan.site/2021/05/05/c-xi-ti-2021-05-05/</id>
     <published>2021-05-05T11:36:55.000Z</published>
     <updated>2021-05-05T11:54:48.436Z</updated>
     
@@ -432,8 +432,8 @@
   
   <entry>
     <title>Ubuntu 18.04 通过apt安装cuda</title>
-    <link href="https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/"/>
-    <id>https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</id>
+    <link href="https://torch-fan.site/2021/05/05/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/"/>
+    <id>https://torch-fan.site/2021/05/05/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/</id>
     <published>2021-05-05T01:34:29.000Z</published>
     <updated>2021-05-14T12:01:05.837Z</updated>
     
