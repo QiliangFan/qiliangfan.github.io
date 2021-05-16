@@ -1,13 +1,9 @@
-https://torch-fan.site/2021/05/15/dockerfile-yu-fa/
-https://torch-fan.site/2021/05/15/github-actions-chang-yong-dai-ma-pian-duan/
 https://torch-fan.site/2021/05/15/github-shang-xia-wen-huan-jing/
 https://torch-fan.site/2021/05/14/ni-shang-github-huan-yao-ti-zi/
-https://torch-fan.site/2021/05/14/docker-cao-zuo/
 https://torch-fan.site/2021/05/13/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/
 https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-sui-ji-you-zou/
 https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-deepwalk/
 https://torch-fan.site/2021/05/11/tu-shen-jing-wang-luo-tu-qian-ru/
-https://torch-fan.site/2021/05/09/github-actions-chang-yong-actions/
 https://torch-fan.site/2021/05/08/xi-la-zi-mu-biao/
 https://torch-fan.site/2021/05/07/kai-yuan-xie-yi-jie-shao/
 https://torch-fan.site/2021/05/07/learning-scheduling-algorithms-for-data-processing-clusters/
@@ -25,10 +21,7 @@ https://torch-fan.site/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/
 https://torch-fan.site/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/
 https://torch-fan.site/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/
 https://torch-fan.site/2021/04/27/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/
-https://torch-fan.site/2021/04/27/github-actions-er-shi-yong-jing-yan/
 https://torch-fan.site/2021/04/27/github-actions-zhi-chi-de-shell/
-https://torch-fan.site/2021/04/27/github-actions-mo-shi-pi-pei-gui-ze/
-https://torch-fan.site/2021/04/27/giththub-actions-de-workflow-yu-fa/
 https://torch-fan.site/2021/04/27/github-actions-yi-shi-yong-actions/
 https://torch-fan.site/2021/04/27/github-actions-kuai-su-kai-shi-fan-yi/
 https://torch-fan.site/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/

@@ -2,21 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://torch-fan.site/2021/05/15/github-actions-chang-yong-dai-ma-pian-duan/</loc>
-    
-    <lastmod>2021-05-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/2021/05/14/ni-shang-github-huan-yao-ti-zi/</loc>
-    
-    <lastmod>2021-05-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/2021/05/15/dockerfile-yu-fa/</loc>
     
     <lastmod>2021-05-15</lastmod>
     
@@ -135,13 +121,6 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/2021/04/27/giththub-actions-de-workflow-yu-fa/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/2021/04/27/github-actions-yi-shi-yong-actions/</loc>
     
     <lastmod>2021-05-14</lastmod>
@@ -149,21 +128,7 @@
   </url>
   
   <url>
-    <loc>https://torch-fan.site/2021/04/27/github-actions-er-shi-yong-jing-yan/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://torch-fan.site/2021/04/27/github-actions-zhi-chi-de-shell/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/2021/04/27/github-actions-mo-shi-pi-pei-gui-ze/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -227,20 +192,6 @@
   
   <url>
     <loc>https://torch-fan.site/2021/05/07/github-actions-cao-zuo-issue/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/2021/05/09/github-actions-chang-yong-actions/</loc>
-    
-    <lastmod>2021-05-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/2021/05/14/docker-cao-zuo/</loc>
     
     <lastmod>2021-05-14</lastmod>
     
@@ -535,20 +486,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://torch-fan.site/tags/docker/</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/tags/Dockerfile/</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
@@ -679,20 +616,6 @@
   
   <url>
     <loc>https://torch-fan.site/categories/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/container/docker/</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://torch-fan.site/categories/container/Dockerfile/</loc>
     <lastmod>2021-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
