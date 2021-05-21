@@ -96,9 +96,9 @@
     <category term="图神经网络" scheme="https://torch-fan.site/categories/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="Graph Embedding" scheme="https://torch-fan.site/tags/Graph-Embedding/"/>
-    
     <category term="图嵌入" scheme="https://torch-fan.site/tags/%E5%9B%BE%E5%B5%8C%E5%85%A5/"/>
+    
+    <category term="Graph Embedding" scheme="https://torch-fan.site/tags/Graph-Embedding/"/>
     
   </entry>
   
