@@ -6,7 +6,7 @@
   <link href="https://torch-fan.site/atom.xml" rel="self"/>
   
   <link href="https://torch-fan.site/"/>
-  <updated>2021-05-15T03:44:40.940Z</updated>
+  <updated>2021-05-21T01:32:43.039Z</updated>
   <id>https://torch-fan.site/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub 访问速度慢解决方法 国内友好版</title>
+    <link href="https://torch-fan.site/2021/05/21/github-fang-wen-su-du-man-jie-jue-fang-fa-guo-nei-you-hao-ban/"/>
+    <id>https://torch-fan.site/2021/05/21/github-fang-wen-su-du-man-jie-jue-fang-fa-guo-nei-you-hao-ban/</id>
+    <published>2021-05-21T01:25:01.000Z</published>
+    <updated>2021-05-21T01:32:43.039Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前写过一篇GitHub 访问速度慢的解决办法, 但是GitHub域名的ip非常多, 经常浮动, 如果身处国内, 可以直接查github的CDN 网络IP</p><p>这是之前写的教程: <a href="/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/" title="GitHub 访问速度慢解决方法">GitHub 访问速度慢解决方法</a></p><ol><li><p>打开 <a href="https://www.ping.cn/dns/github.com">https://www.ping.cn/dns/github.com</a></p></li><li><p>选择DNS查询</p></li><li><p>查询 <code>github.com</code> 的DNS, 记录类型选择 <code>A</code></p></li></ol><blockquote><p>在这个网站上查到的IP, 是国内DNS服务器对GitHub解析最频繁的线路, 只需要将几个概率最大的IP写入hosts文件就行</p><p>其他网站也同样适用, 具体host修改可以看 <a href="/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/" title="GitHub 访问速度慢解决方法">GitHub 访问速度慢解决方法</a></p></blockquote>]]></content>
+    
+    
+    <summary type="html">GitHub 访问速度慢解决方法 国内友好版</summary>
+    
+    
+    
+    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
+    
+    
+    <category term="DNS" scheme="https://torch-fan.site/tags/DNS/"/>
+    
+  </entry>
   
   <entry>
     <title>GitHub 上下文环境</title>
@@ -441,31 +462,6 @@
     <category term="BUG" scheme="https://torch-fan.site/tags/BUG/"/>
     
     <category term="GitHub APP" scheme="https://torch-fan.site/tags/GitHub-APP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GitHub 访问速度慢解决方法</title>
-    <link href="https://torch-fan.site/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/"/>
-    <id>https://torch-fan.site/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/</id>
-    <published>2021-04-29T07:51:54.000Z</published>
-    <updated>2021-05-17T04:45:33.056Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-配置hosts文件"><a href="#1-配置hosts文件" class="headerlink" title="1. 配置hosts文件"></a>1. 配置hosts文件</h2><blockquote><p>windows: c:\Windows\System32\drivers\etc\hosts</p><p>linux: /etc/hosts</p></blockquote><h3 id="1-打开-IPAddress-com"><a href="#1-打开-IPAddress-com" class="headerlink" title="1. 打开 IPAddress.com:"></a>1. 打开 <a href="https://ipaddress.com/">IPAddress.com</a>:</h3><p>查询以下三个网址对应的IP:</p><ul><li>gist.github.com</li><li>github.com</li><li>assets-cdn.github.com</li><li>github.global.ssl.fastly.net</li></ul><h3 id="2-修改hosts文件"><a href="#2-修改hosts文件" class="headerlink" title="2. 修改hosts文件"></a>2. 修改hosts文件</h3><p>一个网站可能会有多个IP，一起写上就行。效果如下：</p><pre class="line-numbers language-cassandra" data-language="cassandra"><code class="language-cassandra">140.82.114.4 github.com140.82.112.4 gist.github.com185.199.108.153 assets-cdn.github.com185.199.108.153 assets-cdn.github.com185.199.109.153 assets-cdn.github.com185.199.110.153 assets-cdn.github.com185.199.111.153 assets-cdn.github.com199.232.69.194 github.global.ssl.fastly.net<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="3-刷新DNS缓存（linux和mac不需要这一步）"><a href="#3-刷新DNS缓存（linux和mac不需要这一步）" class="headerlink" title="3. 刷新DNS缓存（linux和mac不需要这一步）"></a>3. 刷新DNS缓存（linux和mac不需要这一步）</h3><pre class="line-numbers language-cmd" data-language="cmd"><code class="language-cmd">ipconfig /flushdns<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="2-开心地访问GitHub！-●ˇ∀ˇ●"><a href="#2-开心地访问GitHub！-●ˇ∀ˇ●" class="headerlink" title="2. 开心地访问GitHub！(●ˇ∀ˇ●)"></a>2. 开心地访问GitHub！(●ˇ∀ˇ●)</h2><blockquote><p>如果此时还不行, 就可能是还有其他链接的DNS被污染了, 可以F12打开看一下,查对应链接的IP添加到hosts文件中</p></blockquote><h2 id="3-DNS解析更新-2021-05-17"><a href="#3-DNS解析更新-2021-05-17" class="headerlink" title="3. DNS解析更新(2021.05.17)"></a>3. DNS解析更新(2021.05.17)</h2><pre class="line-numbers language-none"><code class="language-none">140.82.113.4 github.com140.82.113.3 github.com140.82.114.6 github.com185.199.108.154 github.githubassets.com185.199.109.154 github.githubassets.com185.199.110.154 github.githubassets.com185.199.111.154 github.githubassets.com185.199.108.133 githubusercontent.com185.199.109.133 githubusercontent.com185.199.110.133 githubusercontent.com185.199.111.133 githubusercontent.com140.82.112.29 githubapp.com140.82.112.30 githubapp.com140.82.113.29 githubapp.com140.82.113.30 githubapp.com140.82.114.29 githubapp.com140.82.114.30 githubapp.com<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;1-配置hosts文件&quot;&gt;&lt;a href=&quot;#1-配置hosts文件&quot; class=&quot;headerlink&quot; title=&quot;1. 配置hosts文件&quot;&gt;&lt;/a&gt;1. 配置hosts文件&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;windows: c:\Windows</summary>
-      
-    
-    
-    
-    <category term="Git" scheme="https://torch-fan.site/categories/Git/"/>
-    
-    
-    <category term="DNS" scheme="https://torch-fan.site/tags/DNS/"/>
     
   </entry>
   
