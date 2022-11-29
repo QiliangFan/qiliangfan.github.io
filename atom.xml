@@ -6,7 +6,7 @@
   <link href="https://www.torch-fan.site/atom.xml" rel="self"/>
   
   <link href="https://www.torch-fan.site/"/>
-  <updated>2022-11-15T02:27:36.105Z</updated>
+  <updated>2022-11-29T09:23:44.644Z</updated>
   <id>https://www.torch-fan.site/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ubuntu使用EasyConnect连接学校服务器</title>
+    <link href="https://www.torch-fan.site/2022/11/26/Ubuntu%E4%BD%BF%E7%94%A8EasyConnect%E8%BF%9E%E6%8E%A5%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://www.torch-fan.site/2022/11/26/Ubuntu%E4%BD%BF%E7%94%A8EasyConnect%E8%BF%9E%E6%8E%A5%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <published>2022-11-26T07:02:34.000Z</published>
+    <updated>2022-11-29T09:23:44.644Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>EasyConnect是知名的流氓软件，如果不了解可以搜索“流氓软件 EasyConnect”，想在Linux下安全使用可以遵循这篇</p></blockquote><h1 id="1-准备"><a class="markdownIt-Anchor" href="#1-准备"></a> 1. 准备：</h1><blockquote><p>注意安装Docker一定要配置好用户组权限，不然在后续步骤会出现一系列问题</p></blockquote><ul><li>首先安装Docker（记得配置好用户组权限）</li><li>使用docker-easyconnect: <a href="https://github.com/Hagb/docker-easyconnect">https://github.com/Hagb/docker-easyconnect</a></li></ul><h1 id="2-使用方法"><a class="markdownIt-Anchor" href="#2-使用方法"></a> 2. 使用方法：</h1><blockquote><p>如果只需要创建临时容器，可以加上–rm</p><p>退出后可以用<code>docker start -ai &lt;container&gt;</code> 重新启动一下</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">docker run --device /dev/net/tun --cap-add NET_ADMIN -ti -p 127.0.0.1:1080:1080 -p 127.0.0.1:8888:8888 -e EC_VER=7.6.3 -e CLI_OPTS=<span class="hljs-string">&quot;-d vpnaddress -u username -p password&quot;</span> hagb/docker-easyconnect:cli<br></code></pre></td></tr></table></figure><p>如果要连接NK的VPN：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">STUID=&lt;学号&gt;<br>PASSWD=&lt;密码&gt;<br>docker run --name ec --device /dev/net/tun --cap-add NET_ADMIN -ti -p 127.0.0.1:1080:1080 -p 127.0.0.1:8888:8888 -e EC_VER=7.6.3 -e CLI_OPTS=<span class="hljs-string">&quot;-d https://vpn.nankai.edu.cn -u <span class="hljs-variable">$STUID</span> -p <span class="hljs-variable">$PASSWD</span>&quot;</span> hagb/docker-easyconnect:cli<br></code></pre></td></tr></table></figure><h1 id="3-设置代理"><a class="markdownIt-Anchor" href="#3-设置代理"></a> 3. 设置代理：</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">export</span> http_proxy=<span class="hljs-string">&quot;127.0.0.1:8888&quot;</span><br><span class="hljs-built_in">export</span> https_proxy=<span class="hljs-string">&quot;127.0.0.1:8888&quot;</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;EasyConnect是知名的流氓软件，如果不了解可以搜索“流氓软件 EasyConnect”，想在Linux下安全使用可以遵循这篇&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;1-准备&quot;&gt;&lt;a class=&quot;markdownIt-Anch</summary>
+      
+    
+    
+    
+    <category term="计算机基础" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="操作系统" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="Linux" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu/"/>
+    
+    
+    <category term="南开" scheme="https://www.torch-fan.site/tags/%E5%8D%97%E5%BC%80/"/>
+    
+  </entry>
   
   <entry>
     <title>Mac 清理垃圾</title>
@@ -543,33 +576,6 @@
     <category term="Linux" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/"/>
     
     <category term="Ubuntu" scheme="https://www.torch-fan.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/Ubuntu/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>rust相关基础知识</title>
-    <link href="https://www.torch-fan.site/2022/07/21/rust%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
-    <id>https://www.torch-fan.site/2022/07/21/rust%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
-    <published>2022-07-21T04:41:27.000Z</published>
-    <updated>2022-11-15T02:27:36.100Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="1-版本更替问题"><a class="markdownIt-Anchor" href="#1-版本更替问题"></a> 1. 版本更替问题</h1><p>Python的2.x和3.x之间有巨大的变化, 对于更为年轻的Rust而言, 每一次大版本之间有废弃功能和新特性也不足为奇, 因此有时需要疑问不只要去看官方文档, 还需要看重大版本更新变化, 具体可在<a href="https://doc.rust-lang.org/stable/edition-guide/">https://doc.rust-lang.org/stable/edition-guide/</a>中看到.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;1-版本更替问题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-版本更替问题&quot;&gt;&lt;/a&gt; 1. 版本更替问题&lt;/h1&gt;
-&lt;p&gt;Python的2.x和3.x之间有巨大的变化, 对于更为年轻的Rust而言, 每一次大版本之间有废弃功能和</summary>
-      
-    
-    
-    
-    <category term="编程语言" scheme="https://www.torch-fan.site/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="Rust" scheme="https://www.torch-fan.site/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Rust/"/>
-    
-    <category term="基础" scheme="https://www.torch-fan.site/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Rust/%E5%9F%BA%E7%A1%80/"/>
     
     
   </entry>

@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>Ubuntu使用EasyConnect连接学校服务器</title>
+    <link href="/2022/11/26/Ubuntu%E4%BD%BF%E7%94%A8EasyConnect%E8%BF%9E%E6%8E%A5%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <url>/2022/11/26/Ubuntu%E4%BD%BF%E7%94%A8EasyConnect%E8%BF%9E%E6%8E%A5%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>EasyConnect是知名的流氓软件，如果不了解可以搜索“流氓软件 EasyConnect”，想在Linux下安全使用可以遵循这篇</p></blockquote><h1 id="1-准备"><a class="markdownIt-Anchor" href="#1-准备"></a> 1. 准备：</h1><blockquote><p>注意安装Docker一定要配置好用户组权限，不然在后续步骤会出现一系列问题</p></blockquote><ul><li>首先安装Docker（记得配置好用户组权限）</li><li>使用docker-easyconnect: <a href="https://github.com/Hagb/docker-easyconnect">https://github.com/Hagb/docker-easyconnect</a></li></ul><h1 id="2-使用方法"><a class="markdownIt-Anchor" href="#2-使用方法"></a> 2. 使用方法：</h1><blockquote><p>如果只需要创建临时容器，可以加上–rm</p><p>退出后可以用<code>docker start -ai &lt;container&gt;</code> 重新启动一下</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">docker run --device /dev/net/tun --cap-add NET_ADMIN -ti -p 127.0.0.1:1080:1080 -p 127.0.0.1:8888:8888 -e EC_VER=7.6.3 -e CLI_OPTS=<span class="hljs-string">&quot;-d vpnaddress -u username -p password&quot;</span> hagb/docker-easyconnect:cli<br></code></pre></td></tr></table></figure><p>如果要连接NK的VPN：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">STUID=&lt;学号&gt;<br>PASSWD=&lt;密码&gt;<br>docker run --name ec --device /dev/net/tun --cap-add NET_ADMIN -ti -p 127.0.0.1:1080:1080 -p 127.0.0.1:8888:8888 -e EC_VER=7.6.3 -e CLI_OPTS=<span class="hljs-string">&quot;-d https://vpn.nankai.edu.cn -u <span class="hljs-variable">$STUID</span> -p <span class="hljs-variable">$PASSWD</span>&quot;</span> hagb/docker-easyconnect:cli<br></code></pre></td></tr></table></figure><h1 id="3-设置代理"><a class="markdownIt-Anchor" href="#3-设置代理"></a> 3. 设置代理：</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">export</span> http_proxy=<span class="hljs-string">&quot;127.0.0.1:8888&quot;</span><br><span class="hljs-built_in">export</span> https_proxy=<span class="hljs-string">&quot;127.0.0.1:8888&quot;</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础</category>
+      
+      <category>操作系统</category>
+      
+      <category>Linux</category>
+      
+      <category>Ubuntu</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>南开</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Mac 清理垃圾</title>
     <link href="/2022/09/29/Mac-%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE/"/>
     <url>/2022/09/29/Mac-%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE/</url>
